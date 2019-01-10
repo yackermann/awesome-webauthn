@@ -7,9 +7,9 @@
 
 - [Resources](#resources)
   - [Tutorials](#tutorials)
-  - [Articles](#boilerplate)
+  - [Articles](#articles)
   - [Slides](#slides)
-  - [Videos](#videos)
+  - [Books](#books)
 
 - [Contributions guidelines](./CONTRIBUTIONS.md)
 

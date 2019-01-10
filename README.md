@@ -48,7 +48,7 @@
  - [Watahani のブログ](https://blog.haniyama.com/) - [Description in Japanese]
  - [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe)
  - [FIDO блог Аккерманн Юрия на Хабре](https://habr.com/users/herrjemand/posts/) - Статьи о FIDO на русском
- - [Ken¥d のブログ](https://ken5scal.hatenablog.com/) - [Description in Japanese]
+ - [Ken¥d のブログ](https://ken5scal.hatenablog.com/) - セキュリティ, Android, Cloud Nativeについてまとめるブログです
  - [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo)
 
 ## Slides

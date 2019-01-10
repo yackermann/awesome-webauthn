@@ -2,8 +2,6 @@
 
 > A curated list of awesome WebAuthn/FIDO2 resources
 
-### [Contributions guidelines](./CONTRIBUTIONS.md)
-
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)
 
@@ -12,6 +10,8 @@
   - [Articles](#boilerplate)
   - [Slides](#slides)
   - [Videos](#videos)
+
+- [Contributions guidelines](./CONTRIBUTIONS.md)
 
 ## Demos
  - [FIDO WebAuthn Demo](https://github.com/fido-alliance/webauthn-demo) - FIDO Alliance WebAuthn Demo

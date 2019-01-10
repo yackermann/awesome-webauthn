@@ -32,6 +32,7 @@
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID
+ - [Lyo Kato: iOS Webauthn Kit](https://github.com/lyokato/WebAuthnKit) - This library provides you a way to handle W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) easily.
 
 ## Hardware
  - [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.
@@ -48,9 +49,11 @@
  - [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe)
  - [FIDO блог Аккерманн Юрия на Хабре](https://habr.com/users/herrjemand/posts/) - Статьи о FIDO на русском
  - [Ken¥d のブログ](https://ken5scal.hatenablog.com/) - [Description in Japanese]
+ - [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo)
 
 ## Slides
  - [FIDO Alliance: WebAuthn Overview](https://slides.com/fidoalliance/webauthn-overview)
 
-## Videos
+## Books
+ - [Getting started with WebAuthn](https://my-transistor.booth.pm/items/1157260) - コミックマーケット95で頒布した同人誌「Getting started with WebAuthn」の電子版(PDF)です。
 

@@ -2,7 +2,7 @@
 
 > A curated list of awesome WebAuthn/FIDO2 resources
 
-## [Contributions guidelines](./CONTRIBUTIONS.md)
+### [Contributions guidelines](./CONTRIBUTIONS.md)
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)

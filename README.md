@@ -2,7 +2,7 @@
 
 > A curated list of awesome WebAuthn/FIDO2 resources
 
-## [Contributions guidelines]
+## [Contributions guidelines](./CONTRIBUTIONS.md)
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)
@@ -31,7 +31,7 @@
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID
 
 ## Hardware
- - [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - 2F Zero is an open source U2F token for 2 factor authentication.
+ - [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.
  - [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at solokeys.com.
 
 # Resources

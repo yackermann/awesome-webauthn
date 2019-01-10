@@ -45,7 +45,7 @@
 ## Articles
  - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand)
  - [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/)
- - [Watahani のブログ](https://blog.haniyama.com/) - [Description in Japanese]
+ - [Watahani のブログ](https://blog.haniyama.com/) - 技術メモとか料理ネタとか
  - [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe)
  - [FIDO блог Аккерманн Юрия на Хабре](https://habr.com/users/herrjemand/posts/) - Статьи о FIDO на русском
  - [Ken¥d のブログ](https://ken5scal.hatenablog.com/) - セキュリティ, Android, Cloud Nativeについてまとめるブログです

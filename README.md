@@ -50,7 +50,7 @@
  - [FIDO блог Аккерманн Юрия на Хабре](https://habr.com/users/herrjemand/posts/) - Статьи о FIDO на русском
  - [Ken¥d のブログ](https://ken5scal.hatenablog.com/) - セキュリティ, Android, Cloud Nativeについてまとめるブログです
  - [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo)
- - [上野博司/super_user: Yahoo! JAPANでの生体認証の取り組み（FIDO2サーバーの仕組みについて](https://techblog.yahoo.co.jp/advent-calendar-2018/webauthn/)
+ - [上野博司/super_reader: Yahoo! JAPANでの生体認証の取り組み（FIDO2サーバーの仕組みについて](https://techblog.yahoo.co.jp/advent-calendar-2018/webauthn/)
 
 ## Slides
  - [FIDO Alliance: WebAuthn Overview](https://slides.com/fidoalliance/webauthn-overview)

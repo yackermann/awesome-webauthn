@@ -29,6 +29,8 @@
  - [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET
  - [Nov Matake: Ruby WebAuthn Lib](https://github.com/nov/web_authn) - W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) RP library in Ruby
  - [Yoshikazu Nojima: WebAuthn Java Lib](https://github.com/webauthn4j/webauthn4j)
+ - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - FIDO2 Client and Server lib
+
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID
@@ -40,6 +42,7 @@
 
 # Resources
 ## Tutorials
+ - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [FIDO WebAuthn Workshop](https://slides.com/fidoalliance/jan-2018-fido-seminar-webauthn-tutorial)
 
 ## Articles

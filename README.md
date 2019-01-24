@@ -44,6 +44,7 @@
 ## Tutorials
  - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [FIDO WebAuthn Workshop](https://slides.com/fidoalliance/jan-2018-fido-seminar-webauthn-tutorial)
+ - [WebAuthn Guide: DUOSEC](https://webauthn.guide/)
 
 ## Articles
  - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand)

@@ -17,11 +17,13 @@
  - [FIDO WebAuthn Demo](https://github.com/fido-alliance/webauthn-demo) - FIDO Alliance WebAuthn Demo
  - [DUO WebAuthn Demo](https://github.com/duo-labs/webauthn) - A Demonstration of the WebAuthn Specification https://webauthn.io/
  - [Mastercard WebAuthn Demo](https://github.com/Mastercard/fido2-rp-spring) - Webauthn/FIDO2 Relying Party Reference Implementation
- - [Adam Powers WebAuthn Demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers https://webauthn.org
- - [Anders Åberg .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET
+ - [Adam Powers WebAuthn Demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers. Live: https://webauthn.org
+ - [Anders Åberg .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for FIDO2 and WebAuthn using .NET. Live: https://fido2.azurewebsites.net/
  - [Auth0 WebAuthn Demo](https://webauthn.me/) - Probably the best WebAuthn flow demo
- - [Google WebAuthn Demo](https://github.com/google/webauthndemo) - An example Java Relying Party implementation of the WebAuthn specification [https://webauthndemo.appspot.com](https://webauthndemo.appspot.com)
+ - [Google WebAuthn Demo](https://github.com/google/webauthndemo) - An example Java Relying Party implementation of the WebAuthn specification. Live: [https://webauthndemo.appspot.com](https://webauthndemo.appspot.com)
  - [Yubico WebAuthn Demo](https://demo.yubico.com/webauthn) - Provides technical details of WebAuthn data flow and includes a playground to test a U2F/FIDO2 key as a second factor or passwordless key.
+ - [jcjones WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication https://webauthn.bin.coffee/
+
 
 ## Server Libs
  - [DUO: A WebAuthn Python module](https://github.com/duo-labs/py_webauthn) - PyWebAuthn is a Python module which can be used to handle WebAuthn registration and assertion. 

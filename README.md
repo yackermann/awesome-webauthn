@@ -12,6 +12,7 @@
   - [Books](#books)
 
 - [Contributions guidelines](./CONTRIBUTIONS.md)
+- [License](./LICENSE.md)
 
 ## Demos
  - [FIDO WebAuthn Demo](https://github.com/fido-alliance/webauthn-demo) - FIDO Alliance WebAuthn Demo

@@ -63,6 +63,7 @@
 
 ## Slides
  - [FIDO Alliance: WebAuthn Overview](https://slides.com/fidoalliance/webauthn-overview)
+ - [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2)
 
 ## Books
  - [Getting started with WebAuthn](https://my-transistor.booth.pm/items/1157260) - コミックマーケット95で頒布した同人誌「Getting started with WebAuthn」の電子版(PDF)です。

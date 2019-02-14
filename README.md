@@ -35,6 +35,7 @@
  - [Yoshikazu Nojima: WebAuthn Java Lib](https://github.com/webauthn4j/webauthn4j)
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - FIDO2 Client and Server lib
  - [cedarcode: WebAuthn Ruby](https://github.com/cedarcode/webauthn-ruby) - Ruby implementation of a WebAuthn Relying Party
+ - [Tangui: Wax](https://github.com/tanguilp/wax) - Elixir implementation of WebAuthn
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID

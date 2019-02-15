@@ -32,7 +32,7 @@
  - [Adam Powers: FIDO2 lib](https://github.com/apowers313/fido2-lib)
  - [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET
  - [Nov Matake: Ruby WebAuthn Lib](https://github.com/nov/web_authn) - W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) RP library in Ruby
- - [Yoshikazu Nojima: WebAuthn Java Lib](https://github.com/webauthn4j/webauthn4j)
+ - [Yoshikazu Nojima: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - FIDO2 Client and Server lib
  - [cedarcode: WebAuthn Ruby](https://github.com/cedarcode/webauthn-ruby) - Ruby implementation of a WebAuthn Relying Party
  - [Tangui: Wax](https://github.com/tanguilp/wax) - Elixir implementation of WebAuthn

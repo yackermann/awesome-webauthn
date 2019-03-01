@@ -37,6 +37,7 @@
  - [cedarcode: WebAuthn Ruby](https://github.com/cedarcode/webauthn-ruby) - Ruby implementation of a WebAuthn Relying Party
  - [Tangui: Wax](https://github.com/tanguilp/wax) - Elixir implementation of WebAuthn
  - [Suby Raman: redux-webauthn](https://github.com/subyraman/redux-webauthn) - Redux middleware for registering and authenticating users with the Web Authentication API (FIDO2).
+ - [StrongKey: FIDO-Server](https://github.com/StrongKey/FIDO-Server) - StrongKey's FIDO Server, Community Edition is an open-source solution designed for DIY coders who want password-less FIDO2 logins for any application.
  
 
 ## Client Libs

@@ -4,12 +4,14 @@
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)
-
-- [Resources](#resources)
+  - [Server Libs](#server-libs)
+  - [Client Libs](#client-libs)
+  - [Hardware](#hardware)
   - [Tutorials](#tutorials)
   - [Articles](#articles)
   - [Slides](#slides)
   - [Books](#books)
+  - [Other](#other)
 
 - [Contributions guidelines](./CONTRIBUTIONS.md)
 - [License](#license)
@@ -26,7 +28,6 @@
  - [jcjones WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication https://webauthn.bin.coffee/
  - [FIDO Alliance: Interop WebApp](https://github.com/fido-alliance/fido2-interop-webapp) - As simple test app for FIDO2 servers
 
-
 ## Server Libs
  - [DUO: A WebAuthn Python module](https://github.com/duo-labs/py_webauthn) - PyWebAuthn is a Python module which can be used to handle WebAuthn registration and assertion. 
  - [Yubico: Java WebAuthn Server](https://github.com/Yubico/java-webauthn-server) - Server-side Web Authentication library for Java. 
@@ -39,7 +40,6 @@
  - [Tangui: Wax](https://github.com/tanguilp/wax) - Elixir implementation of WebAuthn
  - [Suby Raman: redux-webauthn](https://github.com/subyraman/redux-webauthn) - Redux middleware for registering and authenticating users with the Web Authentication API (FIDO2).
  - [StrongKey: FIDO-Server](https://github.com/StrongKey/FIDO-Server) - StrongKey's FIDO Server, Community Edition is an open-source solution designed for DIY coders who want password-less FIDO2 logins for any application.
- 
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID
@@ -50,7 +50,6 @@
  - [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.
  - [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at solokeys.com.
 
-# Resources
 ## Tutorials
  - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [FIDO WebAuthn Workshop](https://slides.com/fidoalliance/jan-2018-fido-seminar-webauthn-tutorial)
@@ -74,7 +73,7 @@
 ## Books
  - [Getting started with WebAuthn](https://my-transistor.booth.pm/items/1157260) - コミックマーケット95で頒布した同人誌「Getting started with WebAuthn」の電子版(PDF)です。
  
- ## Other
+## Other
  - [Adam Powers: WebAuthn Logos](https://github.com/apowers313/webauthn-logos) - An awesome logos by Adam Powers
 
 ## License

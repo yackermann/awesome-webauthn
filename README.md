@@ -3,6 +3,7 @@
 > A curated list of awesome WebAuthn/FIDO2 resources
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)
+  - [Specifications](#specifications)
   - [Demos](#demos)
   - [Server Libs](#server-libs)
   - [Client Libs](#client-libs)
@@ -15,6 +16,11 @@
 
 - [Contributions guidelines](./CONTRIBUTIONS.md)
 - [License](#license)
+
+## Specifications
+ - W3C WebAuthn, Level&nbsp;1, W3C Recommendation ([HTML](https://www.w3.org/TR/webauthn-1/))
+ - W3C WebAuthn, Level&nbsp;2, Editor's Draft ([HTML](https://w3c.github.io/webauthn/))
+ - FIDO Client to Authenticator Protocol, Proposed Standard ([HTML](https://fidoalliance.org/specs/fido-v2.0-ps-20190130-pub/fido-client-to-authenticator-protocol-v2.0-ps-20190130.html), [PDF](https://fidoalliance.org/specs/fido-v2.0-ps-20190130-pub/fido-client-to-authenticator-protocol-v2.0-ps-20190130.pdf))
 
 ## Demos
  - [FIDO WebAuthn Demo](https://github.com/fido-alliance/webauthn-demo) - FIDO Alliance WebAuthn Demo

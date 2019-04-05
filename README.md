@@ -4,6 +4,9 @@
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)
+  - [Server Libs](#server-libs)
+  - [Client Libs](#client-libs)
+  - [Client Libs](#hardware)
 
 - [Resources](#resources)
   - [Tutorials](#tutorials)

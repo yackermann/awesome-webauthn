@@ -6,7 +6,7 @@
   - [Demos](#demos)
   - [Server Libs](#server-libs)
   - [Client Libs](#client-libs)
-  - [Client Libs](#hardware)
+  - [Hardware](#hardware)
 
 - [Resources](#resources)
   - [Tutorials](#tutorials)
@@ -42,7 +42,7 @@
  - [Tangui: Wax](https://github.com/tanguilp/wax) - Elixir implementation of WebAuthn
  - [Suby Raman: redux-webauthn](https://github.com/subyraman/redux-webauthn) - Redux middleware for registering and authenticating users with the Web Authentication API (FIDO2).
  - [StrongKey: FIDO-Server](https://github.com/StrongKey/FIDO-Server) - StrongKey's FIDO Server, Community Edition is an open-source solution designed for DIY coders who want password-less FIDO2 logins for any application.
- 
+ - [Firstyear: WebAuthn-RS](https://github.com/Firstyear/webauthn-rs) - An implementation of webauthn components for Rustlang servers
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID

@@ -51,7 +51,7 @@
  - [Lyo Kato: iOS Webauthn Kit](https://github.com/lyokato/WebAuthnKit) - This library provides you a way to handle W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) easily.
 
 ## Hardware
- - [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.`FIDO Compliant`
+ - [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication. `FIDO Compliant`
  - [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at solokeys.com. `FIDO Compliant`
  - [Trezor](https://github.com/trezor/trezor-core/tree/master/src/apps/webauthn) - Trezor is an open source hardware wallet with FIDO/U2F and FIDO2/WebAuthn functionality.
 

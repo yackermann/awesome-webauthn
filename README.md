@@ -19,7 +19,7 @@
 
 ## Demos
  - [FIDO WebAuthn Demo](https://github.com/fido-alliance/webauthn-demo) - FIDO Alliance WebAuthn Demo
- - [DUO WebAuthn Demo](https://github.com/duo-labs/webauthn) - A Demonstration of the WebAuthn Specification https://webauthn.io/
+ - [DUO WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification https://webauthn.io/
  - [Mastercard WebAuthn Demo](https://github.com/Mastercard/fido2-rp-spring) - Webauthn/FIDO2 Relying Party Reference Implementation
  - [Adam Powers WebAuthn Demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers. Live: https://webauthn.org
  - [Anders Åberg .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for FIDO2 and WebAuthn using .NET. https://fido2.azurewebsites.net/
@@ -32,6 +32,7 @@
 
 ## Server Libs
  - [DUO: A WebAuthn Python module](https://github.com/duo-labs/py_webauthn) - PyWebAuthn is a Python module which can be used to handle WebAuthn registration and assertion. 
+ - [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) - WebAuthn library written in Go. `FIDO COMPLIANT`
  - [Yubico: Java WebAuthn Server](https://github.com/Yubico/java-webauthn-server) - Server-side Web Authentication library for Java. 
  - [Adam Powers: FIDO2 lib](https://github.com/apowers313/fido2-lib)
  - [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET. `FIDO COMPLIANT`

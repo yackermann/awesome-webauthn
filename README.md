@@ -32,12 +32,12 @@
 
 ## Server Libs
  - [DUO: A WebAuthn Python module](https://github.com/duo-labs/py_webauthn) - PyWebAuthn is a Python module which can be used to handle WebAuthn registration and assertion. 
- - [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) - WebAuthn library written in Go. `FIDO COMPLIANT`
+ - `FIDO COMPLIANT` [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) - WebAuthn library written in Go. 
  - [Yubico: Java WebAuthn Server](https://github.com/Yubico/java-webauthn-server) - Server-side Web Authentication library for Java. 
  - [Adam Powers: FIDO2 lib](https://github.com/apowers313/fido2-lib)
  - [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET. `FIDO COMPLIANT`
  - [Nov Matake: Ruby WebAuthn Lib](https://github.com/nov/web_authn) - W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) RP library in Ruby
- - [WebAuthn4J Project: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification `FIDO COMPLIANT`
+ - `FIDO COMPLIANT` [WebAuthn4J Project: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification 
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - FIDO2 Client and Server lib
  - [cedarcode: WebAuthn Ruby](https://github.com/cedarcode/webauthn-ruby) - Ruby implementation of a WebAuthn Relying Party
  - [Tangui: Wax](https://github.com/tanguilp/wax) - Elixir implementation of WebAuthn
@@ -84,5 +84,9 @@
  ## Other
  - [Adam Powers: WebAuthn Logos](https://github.com/apowers313/webauthn-logos) - An awesome logos by Adam Powers
 
+## FAQ
+ - What is `FIDO compliant`?
+ `FIDO Compliant` means that implementation has passed FIDO conformance tools, thus can claim that it is conformant with FIDO2 specifications. If you want to get access to the conformance tools, you can do it here https://fidoalliance.org/certification/functional-certification/conformance/. If you have passed conformance tools, send me a DM or a tweet [@herrjemand](https://twitter.com) with a screenshot of passing the tests.
+  
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

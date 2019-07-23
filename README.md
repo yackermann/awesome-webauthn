@@ -47,6 +47,7 @@
  - [Firstyear: WebAuthn-RS](https://github.com/Firstyear/webauthn-rs) - An implementation of webauthn components for Rustlang servers
  - [Koesie10: WebAuthn](https://github.com/koesie10/webauthn) - Go/JS WebAuthn Library for easy Server/Client integation
  - [SharpLab: Spring-Security-WebAuthn](https://github.com/sharplab/spring-security-webauthn) - Unofficial WebAuthn module for the Spring Security project
+ - [Web-Auth: WebAuthn Framework](https://github.com/web-auth/webauthn-framework) - This framework contains PHP libraries and Symfony bundle to allow developpers to integrate FIDO2 authentication mechanism into their web applications.
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID

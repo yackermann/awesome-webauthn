@@ -34,9 +34,10 @@
 
 
 ## Server Libs
+ - `FIDO CERTIFIED` [Strong Key: FIDO2 Server](https://github.com/StrongKey/fido2) - Open-source FIDO server, featuring the FIDO2 standard. https://encryptedweb.org
  - `FIDO COMPLIANT` [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET
  - `FIDO COMPLIANT` [WebAuthn4J Project: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification 
- - `FIDO COMPLIANT` [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) - WebAuthn library written in Go. 
+ - `FIDO COMPLIANT` [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) - WebAuthn library written in Go.
  - [DUO: A WebAuthn Python module](https://github.com/duo-labs/py_webauthn) - PyWebAuthn is a Python module which can be used to handle WebAuthn registration and assertion. 
  - [Yubico: Java WebAuthn Server](https://github.com/Yubico/java-webauthn-server) - Server-side Web Authentication library for Java. 
  - [Adam Powers: FIDO2 lib](https://github.com/apowers313/fido2-lib)
@@ -45,7 +46,6 @@
  - [cedarcode: WebAuthn Ruby](https://github.com/cedarcode/webauthn-ruby) - Ruby implementation of a WebAuthn Relying Party
  - [Tangui: Wax](https://github.com/tanguilp/wax) - Elixir implementation of WebAuthn
  - [Suby Raman: redux-webauthn](https://github.com/subyraman/redux-webauthn) - Redux middleware for registering and authenticating users with the Web Authentication API (FIDO2).
- - [StrongKey: FIDO-Server](https://github.com/StrongKey/FIDO-Server) - StrongKey's FIDO Server, Community Edition is an open-source solution designed for DIY coders who want password-less FIDO2 logins for any application.
  - [Firstyear: WebAuthn-RS](https://github.com/Firstyear/webauthn-rs) - An implementation of webauthn components for Rustlang servers
  - [Koesie10: WebAuthn](https://github.com/koesie10/webauthn) - Go/JS WebAuthn Library for easy Server/Client integation
  - [SharpLab: Spring-Security-WebAuthn](https://github.com/sharplab/spring-security-webauthn) - Unofficial WebAuthn module for the Spring Security project
@@ -93,6 +93,11 @@
  - [Adam Powers: WebAuthn Logos](https://github.com/apowers313/webauthn-logos) - An awesome logos by Adam Powers
 
 ## FAQ
+
+
+ - **What is `FIDO CERTIFIED`?**
+
+`FIDO CERTIFIED` means that implementation has passed FIDO conformance tools, passed interoperability even, and has achieved official FIDO Alliance certification.
 
  - **What is `FIDO COMPLIANT`?**
 

@@ -62,8 +62,9 @@
 ## Hardware
  - `FIDO COMPLIANT` [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.
  - `FIDO COMPLIANT` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at solokeys.com
+  -  `FIDO COMPLIANT` [OnlyKey](https://docs.crp.to) - OnlyKey is an open source FIDO2 security key, a hardware password manager, and supports additional features like [passwordless SSH login](https://docs.crp.to/onlykey-agent.html) and [OpenPGP](https://docs.crp.to/features.html#openpgp). You can get one at https://onlykey.io
  - [Trezor](https://github.com/trezor/trezor-core/tree/master/src/apps/webauthn) - Trezor is an open source hardware wallet with FIDO/U2F and FIDO2/WebAuthn functionality.
-
+  
 # Resources
 ## Tutorials
  - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)

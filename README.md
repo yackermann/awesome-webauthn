@@ -98,9 +98,9 @@
 ## FAQ
 
 
- - **What is `FIDO CERTIFIED`?**
+ - **What is `FIDO CERTIFIED`™?**
 
-`FIDO CERTIFIED` means that implementation has passed FIDO conformance tools, passed interoperability even, and has achieved official FIDO Alliance certification.
+`FIDO CERTIFIED` means that implementation has passed FIDO conformance tools, passed interoperability even, and has achieved official FIDO Alliance certification. A registered FIDO Alliance Trademark.
 
  - **What is `FIDO COMPLIANT`?**
 

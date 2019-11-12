@@ -71,7 +71,7 @@
  - [FIDO WebAuthn Workshop](https://slides.com/fidoalliance/jan-2018-fido-seminar-webauthn-tutorial)
  - [WebAuthn Guide: DUOSEC](https://webauthn.guide/)
  - [Yubico: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop)
-
+ - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google
 ## Articles
  - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand)
  - [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/)

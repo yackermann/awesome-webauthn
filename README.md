@@ -6,8 +6,8 @@
   - [Demos](#demos)
   - [Server Libs](#server-libs)
   - [Client Libs](#client-libs)
-  - [Soft tokens](#soft-tokens)
-  - [Hardware](#hardware)
+  - [Software Authenticators](#software-authenticators)
+  - [Hardware Authenticators](#hardware-authenticators)
 
 - [Resources](#resources)
   - [Tutorials](#tutorials)

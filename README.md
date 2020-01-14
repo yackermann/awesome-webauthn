@@ -4,6 +4,7 @@
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)
+  - [Enterprise Server](#enterprise-server)
   - [Server Libs](#server-libs)
   - [Client Libs](#client-libs)
   - [Software Authenticators](#software-authenticators)
@@ -36,8 +37,11 @@
  - [Strongkey Basic Javascript Demo](https://fido2.strongkey.com/basicserver) - A simple javascript application to demonstarte FIDO2.
  - [Strongkey Angular Demo](https://fido2.strongkey.com/) - A simple angular application to demonstarte FIDO2 along with user key management.
  
+ ## Enterprise Server
+  - `FIDO CERTIFIED™` [StrongKey: FIDO2 Server](https://github.com/StrongKey/fido2) - Open-source Enterprise FIDO2 server with high availability, featuring the FIDO2 standard.
+  
  ## Server Libs
-  - `FIDO CERTIFIED™` [Strong Key: FIDO2 Server](https://github.com/StrongKey/fido2) - Open-source Standalone FIDO2 server, featuring the FIDO2 standard.
+ 
  - `FIDO CONFORMANT` [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET
  - `FIDO CONFORMANT` [WebAuthn4J Project: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification 
  - `FIDO CONFORMANT` [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) - WebAuthn library written in Go.

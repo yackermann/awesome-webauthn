@@ -33,6 +33,7 @@
  - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework)
  - [Yuriy Ackermann: FIDO2 Demos](https://herrjemand.github.io/FIDO2WebAuthnSeries/) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
+ - [Rock Solid Knowledge: identityserver.com](https://fido.identityserver.com/) - Demo of an ASP.NET Core website acting as a FIDO2 Relying Party
 
 ## Server Libs
  - `FIDO CERTIFIED™` [Strong Key: FIDO2 Server](https://github.com/StrongKey/fido2) - Open-source FIDO server, featuring the FIDO2 standard.

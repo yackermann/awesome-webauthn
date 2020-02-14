@@ -117,6 +117,12 @@
  - **FIDO2 or WebAuthn?**
 
 FIDO2 is the name of the standard. WebAuthn is just browser JS API to talk to the authenticators. So correct way to call your server is "FIDO2 Server" and to say "Authentication with FIDO2".
-  
+
+ - **I would like to advertise my company product here!**
+
+Please don't. The advertisement you can get is by writing a good, deep, technical article, or open sourcing your server or/and tools is much better for you, than cheap show off. People will buy your company product if you show them that you know what you are doing.
+
+Otherwise we have strict no ads policy. We will only link to open source repos and actual articles. No company websites.
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

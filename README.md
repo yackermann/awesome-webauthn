@@ -31,7 +31,7 @@
  - [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication https://webauthn.bin.coffee/
  - [FIDO Alliance: Interop WebApp](https://github.com/fido-alliance/fido2-interop-webapp) - As simple test app for FIDO2 servers
  - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework)
- - [Yuriy Ackermann: FIDO2 Demos](https://herrjemand.github.io/FIDO2WebAuthnSeries/) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
+ - [Yuriy Ackermann: FIDO2 Demos](https://github.com/herrjemand/FIDO2WebAuthnSeries) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
 
 ## Server Libs
@@ -84,7 +84,7 @@
  - [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/)
  - [Watahani のブログ](https://blog.haniyama.com/) - 技術メモとか料理ネタとか
  - [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe)
- - [FIDO блог Аккерманн Юрия на Хабре](https://habr.com/users/herrjemand/posts/) - Статьи о FIDO на русском
+ - [FIDO блог Юрия Аккерманна на Хабре](https://habr.com/users/herrjemand/posts/) - Статьи о FIDO на русском
  - [Ken¥d のブログ](https://ken5scal.hatenablog.com/) - セキュリティ, Android, Cloud Nativeについてまとめるブログです
  - [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo)
  - [上野博司/super_reader: Yahoo! JAPANでの生体認証の取り組み（FIDO2サーバーの仕組みについて](https://techblog.yahoo.co.jp/advent-calendar-2018/webauthn/)

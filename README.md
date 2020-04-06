@@ -93,6 +93,7 @@
  - [Damien Bod: ASP.NET CORE IDENTITY WITH FIDO2 WEBAUTHN MFA](https://damienbod.com/2019/08/06/asp-net-core-identity-with-fido2-webauthn-mfa/) - This article shows how Fido2 WebAuthn could be used as 2FA and integrated into an ASP.NET Core Identity application.
  - [Paul Stamatiou: Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - How to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys. (Less technical but a very usefull article)
  - [Adam Powers FIDO Alliance: The Truth about Attestation ](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/) - A woundeful tech article about attestations
+ - [Henrik Loeser (data-henrik): FIDO2-related blog articles](https://blog.4loeser.net/search/label/FIDO2) - FIDO2 keys on Linux and for cloud services
 ## Slides
  - [FIDO Alliance: WebAuthn Overview](https://slides.com/fidoalliance/webauthn-overview)
  - [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2)

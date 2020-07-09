@@ -64,7 +64,8 @@
  - [Lyo Kato: iOS Webauthn Kit](https://github.com/lyokato/WebAuthnKit) - This library provides you a way to handle W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) easily.
  - [Yubico: Mobile iOS SDK (YubiKit)](https://github.com/Yubico/yubikit-ios) - YubiKit is an iOS library provided by Yubico to interact with YubiKeys on iOS devices. Works with other FIDO2 devices as well
  - [Mozilla: authenticator-rs](https://github.com/mozilla/authenticator-rs/) - Rust library to interact with Security Keys, used by Firefox
- 
+ - [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
+
 ## Software Authenticators
  - [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token
  - [Fabian Henneke: WearAuthn](https://github.com/FabianHenneke/WearAuthn) - FIDO2 Bluetooth HID/NFC soft token for Wear OS watches with support for resident keys

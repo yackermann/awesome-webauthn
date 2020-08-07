@@ -34,6 +34,7 @@
  - [Yuriy Ackermann: FIDO2 Demos](https://github.com/herrjemand/FIDO2WebAuthnSeries) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
 - [Xavier Renard: Webauthn Demo](https://github.com/xarenard/webauthn_fido_java_react) - A working WebAuthn demo based on java Spring Boot and react.js.
+- [MonoSign: U2F Demo](https://github.com/monosign/u2f) - MonoSign U2F (FIDO Standard) dotnet core Server/Client Library with Demo Application (Supports: User and Device Register and Login with Duplication Check. Includes Demo project.)
 
 ## Server Libs
  - `FIDO CERTIFIED™` [Strong Key: FIDO2 Server](https://github.com/StrongKey/fido2) - Open-source FIDO server, featuring the FIDO2 standard.
@@ -57,6 +58,7 @@
 - [asbiin: laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - A Laravel adapter for the WebAuthn Framework (from Spomky-Labs).
 - [e3b0c442: warp](https://github.com/e3b0c442/warp) - A framework-independent Relying Party implemnetation for Go
 - [fumieval: webauthn](https://github.com/fumieval/webauthn) - Fledgling Haskell implementation
+- [MonoSign: U2F](https://github.com/monosign/u2f) - MonoSign U2F (FIDO Standard) dotnet core Server/Client Library with Demo Application (Supports: User and Device Register and Login with Duplication Check. Includes Demo project.)
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID
@@ -66,6 +68,7 @@
  - [Yubico: Mobile iOS SDK (YubiKit)](https://github.com/Yubico/yubikit-ios) - YubiKit is an iOS library provided by Yubico to interact with YubiKeys on iOS devices. Works with other FIDO2 devices as well
  - [Mozilla: authenticator-rs](https://github.com/mozilla/authenticator-rs/) - Rust library to interact with Security Keys, used by Firefox
  - [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
+ - [MonoSign: U2F](https://github.com/monosign/u2f) - MonoSign U2F (FIDO Standard) dotnet core Server/Client Library with Demo Application (Supports: User and Device Register and Login with Duplication Check. Includes Demo project.)
 
 ## Software Authenticators
  - [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token

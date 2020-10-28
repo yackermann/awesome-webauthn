@@ -12,6 +12,7 @@
 - [Resources](#resources)
   - [Tutorials](#tutorials)
   - [Articles](#articles)
+  - [Videos](#videos)
   - [Slides](#slides)
   - [Books](#books)
 
@@ -102,6 +103,8 @@
  - [Adam Powers FIDO Alliance: The Truth about Attestation ](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/) - A woundeful tech article about attestations
  - [Henrik Loeser (data-henrik): FIDO2-related blog articles](https://blog.4loeser.net/search/label/FIDO2) - FIDO2 keys on Linux and for cloud services
  - [Tim Brust: Security Evaluation of Multi-Factor Authentication in Comparison with the Web Authentication API](https://github.com/timbru31/masters-thesis) - A master's thesis comparing WebAuthn with other multi-factor authentication methods, such as HOTP, TOTP or U2F.
+## Videos
+ - [WHAT ABOUT BIOMETRIC AND U2F TOKEN WEB AUTHENTICATION?](https://www.youtube.com/watch?v=y0T9IRo-7zo&t=21528s) - talk by [Denis Zavgorodny](https://github.com/denis-zavgorodny) [ru]
 ## Slides
  - [FIDO Alliance: WebAuthn Overview](https://slides.com/fidoalliance/webauthn-overview)
  - [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2)
@@ -109,7 +112,7 @@
 ## Books
  - [Getting started with WebAuthn](https://my-transistor.booth.pm/items/1157260) - コミックマーケット95で頒布した同人誌「Getting started with WebAuthn」の電子版(PDF)です。
  
- ## Other
+## Other
  - [Adam Powers: WebAuthn Logos](https://github.com/apowers313/webauthn-logos) - An awesome logos by Adam Powers
 
 ## FAQ

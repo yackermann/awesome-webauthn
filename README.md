@@ -82,10 +82,10 @@
 # Resources
 ## Tutorials
  - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
- - [FIDO WebAuthn Workshop](https://slides.com/fidoalliance/jan-2018-fido-seminar-webauthn-tutorial)
  - [WebAuthn Guide: DUOSEC](https://webauthn.guide/)
  - [Yubico: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop)
  - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google
+
 ## Articles
  - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand)
  - [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/)
@@ -102,9 +102,11 @@
  - [Adam Powers FIDO Alliance: The Truth about Attestation ](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/) - A woundeful tech article about attestations
  - [Henrik Loeser (data-henrik): FIDO2-related blog articles](https://blog.4loeser.net/search/label/FIDO2) - FIDO2 keys on Linux and for cloud services
  - [Tim Brust: Security Evaluation of Multi-Factor Authentication in Comparison with the Web Authentication API](https://github.com/timbru31/masters-thesis) - A master's thesis comparing WebAuthn with other multi-factor authentication methods, such as HOTP, TOTP or U2F.
+
 ## Slides
- - [FIDO Alliance: WebAuthn Overview](https://slides.com/fidoalliance/webauthn-overview)
+ - [Yuriy Ackermann: WebAuthn Overview](https://slides.com/herrjemand/webauthn-overview)
  - [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2)
+ - [WebAuthn Works: Slides](https://slides.com/webauthnworks/) - A library of slides by Yuriy Ackermann and WebAuthn Works in English and Russian
 
 ## Books
  - [Getting started with WebAuthn](https://my-transistor.booth.pm/items/1157260) - コミックマーケット95で頒布した同人誌「Getting started with WebAuthn」の電子版(PDF)です。

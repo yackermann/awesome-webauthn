@@ -84,6 +84,7 @@
 
 ## Dev tools
 - [Shane B Weeden: FIDO2 Postman Clients](https://github.com/sbweeden/fido2-postman-clients) - FIDO2 Postman clients to easily test your FIDO2 API endpoints.
+- [MasterKale: WebAuthn Previewer](https://github.com/MasterKale/webauthn-previewer) - A simple website for previewing WebAuthn attestations and assertions
 
 # Resources
 ## Tutorials

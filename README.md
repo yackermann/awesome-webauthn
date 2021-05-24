@@ -59,6 +59,7 @@
 - [asbiin: laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - A Laravel adapter for the WebAuthn Framework (from Spomky-Labs).
 - [e3b0c442: warp](https://github.com/e3b0c442/warp) - A framework-independent Relying Party implemnetation for Go
 - [fumieval: webauthn](https://github.com/fumieval/webauthn) - Fledgling Haskell implementation
+- [lbuchs: PHP Webauthn](https://github.com/lbuchs/webauthn) - A simple PHP WebAuthn (FIDO2) server library
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID

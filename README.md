@@ -33,7 +33,8 @@
  - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework)
  - [Yuriy Ackermann: FIDO2 Demos](https://github.com/herrjemand/FIDO2WebAuthnSeries) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
-- [Xavier Renard: Webauthn Demo](https://github.com/xarenard/webauthn_fido_java_react) - A working WebAuthn demo based on java Spring Boot and react.js.
+ - [Xavier Renard: Webauthn Demo](https://github.com/xarenard/webauthn_fido_java_react) - A working WebAuthn demo based on java Spring Boot and react.js.
+ - [Anders Rundgren: FIDO Web Pay](https://github.com/cyberphone/fwp) - Public FIDO-based "wallet" demo and associated standards proposal.
 
 ## Server Libs
  - `FIDO CERTIFIED™` [Strong Key: FIDO2 Server](https://github.com/StrongKey/fido2) - Open-source FIDO server, featuring the FIDO2 standard.

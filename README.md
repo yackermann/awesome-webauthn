@@ -1,5 +1,8 @@
 # WebAuthn Awesome [![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+## JOIN FIDO ALLIANCE [DEVELOPER CHALLENGE](https://fidoalliance.org/fido-developer-challenge/)
+
 > A curated list of awesome WebAuthn/FIDO2 resources
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)

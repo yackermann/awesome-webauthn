@@ -73,6 +73,7 @@
  - [Yubico: Mobile iOS SDK (YubiKit)](https://github.com/Yubico/yubikit-ios) - YubiKit is an iOS library provided by Yubico to interact with YubiKeys on iOS devices. Works with other FIDO2 devices as well
  - [Mozilla: authenticator-rs](https://github.com/mozilla/authenticator-rs/) - Rust library to interact with Security Keys, used by Firefox
  - [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
+ - [MasterKale: @simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end **@simplewebauthn/server** (see [Server Libs](#server-libs)). Also works with Duo's py_webauthn.
 
 ## Software Authenticators
  - [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token

@@ -31,7 +31,7 @@
  - [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication https://webauthn.bin.coffee/
  - [FIDO Alliance: Interop WebApp](https://github.com/fido-alliance/fido2-interop-webapp) - As simple test app for FIDO2 servers
  - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework)
- - [Token2: FIDO2 Security key - Demo](https://www.token2.swiss/tools/fido2-test/) - As simple test tools for FIDO2 security keys 
+ - [Token2: FIDO2 Security key - Demo](https://www.token2.swiss/tools/fido2-test/) - A simple test tools for FIDO2 security keys 
  - [Yuriy Ackermann: FIDO2 Demos](https://github.com/herrjemand/FIDO2WebAuthnSeries) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
  - [Xavier Renard: Webauthn Demo](https://github.com/xarenard/webauthn_fido_java_react) - A working WebAuthn demo based on java Spring Boot and react.js.

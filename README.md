@@ -117,6 +117,7 @@
  - [Adam Powers FIDO Alliance: The Truth about Attestation ](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/) - A woundeful tech article about attestations
  - [Henrik Loeser (data-henrik): FIDO2-related blog articles](https://blog.4loeser.net/search/label/FIDO2) - FIDO2 keys on Linux and for cloud services
  - [Tim Brust: Security Evaluation of Multi-Factor Authentication in Comparison with the Web Authentication API](https://github.com/timbru31/masters-thesis) - A master's thesis comparing WebAuthn with other multi-factor authentication methods, such as HOTP, TOTP or U2F.
+ - [MojoAuth: What is WebAuthn](https://mojoauth.com/blog/what-is-webauthn/) - This article will help you to understand WebAuthn.
 
 ## Slides
  - [Yuriy Ackermann: WebAuthn Overview](https://slides.com/herrjemand/webauthn-overview)

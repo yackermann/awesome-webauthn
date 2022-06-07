@@ -1,4 +1,4 @@
-# WebAuthn Awesome [![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# WebAuthn and Passkey Awesome [![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome WebAuthn/FIDO2 resources
 

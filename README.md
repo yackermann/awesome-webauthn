@@ -1,10 +1,5 @@
 # WebAuthn and Passkey Awesome [![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Want to help defend Ukraine? Donate to our 501c3 charity, and help us deploying WebAuthn, passkeys, and Yubikeys:
-## https://www.ukrainenow.org/projects/yubico-hideez-support
-
-
-
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)
   - [Server Libs](#server-libs)

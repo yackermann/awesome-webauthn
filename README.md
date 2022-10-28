@@ -100,6 +100,7 @@
 - [Shane B Weeden: FIDO2 Postman Clients](https://github.com/sbweeden/fido2-postman-clients) - FIDO2 Postman clients to easily test your FIDO2 API endpoints.
 - [MasterKale: WebAuthn Previewer](https://github.com/MasterKale/webauthn-previewer) - A simple website for previewing WebAuthn attestations and assertions
 - [Firstyear: Webauthn RS compatability tester](https://webauthn.firstyear.id.au/compat_test) - A webauthn device and browser stress tester that can identify flaws in implementations and has already found bugs in Firefox, Safari, Android and more.
+- [Descope: VirtualWebAuthn Test Tool](https://github.com/descope/virtualwebauthn) - A GO package to automate testing of a relying party WebAuthn server implementation without requiring a browser or an actual authenticator.
 
 # Resources
 ## Tutorials

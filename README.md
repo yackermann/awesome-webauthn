@@ -94,7 +94,13 @@
 - `FIDO CONFORMANT` [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.
 - [Trezor](https://github.com/trezor/trezor-core/tree/master/src/apps/webauthn) - Trezor is an open source hardware wallet with FIDO/U2F and FIDO2/WebAuthn functionality.
 - [Google: OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-- [Nitrokey](https://github.com/Nitrokey) - Nitrokey is developing/producing different types of open source and open hardware FIDO2 security keys (check for the "Nitrokey FIDO2" and "Nitrokey 3" related repositories).
+- [Nitrokey](https://github.com/Nitrokey) - Nitrokey is developing/producing different types of open source and open hardware FIDO2 security keys:
+  - [Nitrokey 3 Firmware](https://github.com/Nitrokey/nitrokey-3-firmware)
+  - [Nitrokey 3 USB-C NFC Hardware](https://github.com/Nitrokey/nitrokey-3c-nfc-lpc55-hardware)
+  - [Nitrokey 3 USB-A NFC Hardware](https://github.com/Nitrokey/nitrokey-3a-nfc-lpc55-hardware)
+  - [Nitrokey 3 Mini Hardware](https://github.com/Nitrokey/nitrokey-3a-mini-nrf52-hardware)
+  - [Nitrokey FIDO2 Firmware](https://github.com/Nitrokey/nitrokey-fido2-firmware)
+  - [Nitrokey FIDO2 Hardware](https://github.com/Nitrokey/nitrokey-fido2-hardware)
 
 ## Dev tools
 - [Shane B Weeden: FIDO2 Postman Clients](https://github.com/sbweeden/fido2-postman-clients) - FIDO2 Postman clients to easily test your FIDO2 API endpoints.

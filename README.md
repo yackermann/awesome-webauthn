@@ -100,6 +100,7 @@
 # Resources
 ## Tutorials
  - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
+ - [Passkeys.dev](https://passkeys.dev/) - A greate guide on starting with passkeys
  - [WebAuthn Guide: DUOSEC](https://webauthn.guide/)
  - [Yubico Labs: WebAuthn Starter Kit Reference Deployment](https://github.com/YubicoLabs/WebAuthnKit) & [Reference Architecture](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/) - How an identifier-first flow helps migrate users towards passwordless. Integrates Yubico's java-webauthn-server with AWS Lambda and AWS Cognito. Includes example web and iOS clients.
  - [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop)

@@ -13,6 +13,7 @@
   - [Articles](#articles)
   - [Slides](#slides)
   - [Books](#books)
+  - [Blogs](#blogs)
 
 - [FAQ](#faq)
 - [Contributions guidelines](./CONTRIBUTIONS.md)
@@ -133,6 +134,9 @@
 ## Books
  - [Getting started with WebAuthn](https://my-transistor.booth.pm/items/1157260) - コミックマーケット95で頒布した同人誌「Getting started with WebAuthn」の電子版(PDF)です。
  - [Password authentication for web and mobile apps](https://dchest.com/authbook/) - A book by Dmitry Chestnykh @dchest about authentication on web and mobile. Talks in depth about correct password authenticatoin, and additionally introduces to FIDO2/Webauthn
+ 
+## Blogs
+- [Passkeys: FIDO’s new mission to completely remove passwords](https://mojoauth.com/blog/passkeys-fido-new-mission-to-remove-passwords/) - A blog explaining what is passkey, how it works and how secure passkeys are.
  
  ## Other
  - [Adam Powers: WebAuthn Logos](https://github.com/apowers313/webauthn-logos) - An awesome logos by Adam Powers

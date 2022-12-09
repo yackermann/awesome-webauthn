@@ -65,6 +65,7 @@
 - [fumieval: webauthn](https://github.com/fumieval/webauthn) - Fledgling Haskell implementation
 - [lbuchs: PHP Webauthn](https://github.com/lbuchs/webauthn) - A simple PHP WebAuthn (FIDO2) server library
 - [Robur: webauthn](https://github.com/roburio/webauthn) - An IO-agnostic WebAuthn server implementation written in OCaml
+- [pomerium: webauthn](https://github.com/pomerium/webauthn) - A Go library that implements WebAuthn/FIDO2 spec as a relying party.
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID

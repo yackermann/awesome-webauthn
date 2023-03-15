@@ -19,7 +19,8 @@
 - [License](#license)
 
 ## Demos
- - [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification https://webauthn.io/
+- [Descope: Passkeys Demo](https://passkeys.guru/) - A Demonstration of passkeys https://passkeys.guru/
+- [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification https://webauthn.io/
  - [Adam Powers: WebAuthn Demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers. Live: https://webauthn.org
  - [Anders Åberg: .NET library for FIDO2 Demo](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for FIDO2 and WebAuthn using .NET. https://fido2.azurewebsites.net/
  - [Auth0: WebAuthn Demo](https://webauthn.me/) - Probably the best WebAuthn flow demo

@@ -76,7 +76,7 @@
  - [Firstyear: webauthn-authenticator-rs](https://github.com/Firstyear/webauthn-rs) - Rust library for interacting with Security Keys, based on authenticator-rs, but with extensions to support CTAP2.1 and NFC
  - [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
  - [MasterKale: @simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end **@simplewebauthn/server** (see [Server Libs](#server-libs)). Also works with Duo's py_webauthn.
- - [Corbado: passkeys package](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps
+ - [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps
 
 ## Software Authenticators
  - [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token

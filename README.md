@@ -60,12 +60,12 @@
  - [Firstyear: WebAuthn-RS](https://github.com/Firstyear/webauthn-rs) - An implementation of Passkeys and Webauthn components for Rust web servers.
  - [Koesie10: WebAuthn](https://github.com/koesie10/webauthn) - Go/JS WebAuthn Library for easy Server/Client integation
  - [SharpLab: Spring-Security-WebAuthn](https://github.com/sharplab/spring-security-webauthn) - Unofficial WebAuthn module for the Spring Security project
-- [Wallix: @webauthn/server](https://github.com/wallix/webauthn) - A NodeJS library containing easy-to-use helpers to integrate FIDO2. Works in pair with [@webauthn/client](https://github.com/wallix/webauthn).
-- [asbiin: laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - A Laravel adapter for the WebAuthn Framework (from Spomky-Labs).
-- [e3b0c442: warp](https://github.com/e3b0c442/warp) - A framework-independent Relying Party implemnetation for Go
-- [fumieval: webauthn](https://github.com/fumieval/webauthn) - Fledgling Haskell implementation
-- [lbuchs: PHP Webauthn](https://github.com/lbuchs/webauthn) - A simple PHP WebAuthn (FIDO2) server library
-- [Robur: webauthn](https://github.com/roburio/webauthn) - An IO-agnostic WebAuthn server implementation written in OCaml
+ - [Wallix: @webauthn/server](https://github.com/wallix/webauthn) - A NodeJS library containing easy-to-use helpers to integrate FIDO2. Works in pair with [@webauthn/client](https://github.com/wallix/webauthn).
+ - [asbiin: laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - A Laravel adapter for the WebAuthn Framework (from Spomky-Labs).
+ - [e3b0c442: warp](https://github.com/e3b0c442/warp) - A framework-independent Relying Party implemnetation for Go
+ - [fumieval: webauthn](https://github.com/fumieval/webauthn) - Fledgling Haskell implementation
+ - [lbuchs: PHP Webauthn](https://github.com/lbuchs/webauthn) - A simple PHP WebAuthn (FIDO2) server library
+ - [Robur: webauthn](https://github.com/roburio/webauthn) - An IO-agnostic WebAuthn server implementation written in OCaml
 
 ## Client Libs
  - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID
@@ -77,7 +77,7 @@
  - [Firstyear: webauthn-authenticator-rs](https://github.com/Firstyear/webauthn-rs) - Rust library for interacting with Security Keys, based on authenticator-rs, but with extensions to support CTAP2.1 and NFC
  - [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
  - [MasterKale: @simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end **@simplewebauthn/server** (see [Server Libs](#server-libs)). Also works with Duo's py_webauthn.
- - [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps
+  - [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps
 
 ## Software Authenticators
  - [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token

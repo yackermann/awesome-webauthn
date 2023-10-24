@@ -33,7 +33,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication https://webauthn.bin.coffee/.
 - [FIDO Alliance: Interop WebApp](https://github.com/fido-alliance/fido2-interop-webapp) - As simple test app for FIDO2 servers.
 - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework).
-- [Yuriy Ackermann: FIDO2 Demos](https://github.com/herrjemand/FIDO2WebAuthnSeries) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285).
+- [Yuriy Ackermann: FIDO2 Demos](https://github.com/herrjemand/FIDO2WebAuthnSeries) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285#).
 - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
 - [Xavier Renard: Webauthn Demo](https://github.com/xarenard/webauthn_fido_java_react) - A working WebAuthn demo based on java Spring Boot and react.js.
 - [Anders Rundgren: FIDO Web Pay](https://github.com/cyberphone/fwp) - Public FIDO-based "wallet" demo and associated standards proposal.
@@ -65,7 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Firstyear: WebAuthn-RS](https://github.com/Firstyear/webauthn-rs) - An implementation of Passkeys and Webauthn components for Rust web servers.
 - [Koesie10: WebAuthn](https://github.com/koesie10/webauthn) - Go/JS WebAuthn Library for easy Server/Client integation.
 - [SharpLab: Spring-Security-WebAuthn](https://github.com/sharplab/spring-security-webauthn) - Unofficial WebAuthn module for the Spring Security project.
-- [Wallix: @webauthn/server](https://github.com/wallix/webauthn) - A Node.js library containing easy-to-use helpers to integrate FIDO2. Works in pair with [@webauthn/client](https://github.com/wallix/webauthn).
+- [Wallix: @webauthn/server](https://github.com/wallix/webauthn) - A Node.js library containing easy-to-use helpers to integrate FIDO2. Works in pair with [@webauthn/client](https://github.com/wallix/webauthn/tree/master/packages/client).
 - [asbiin: laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - A Laravel adapter for the WebAuthn Framework (from Spomky-Labs).
 - [e3b0c442: warp](https://github.com/e3b0c442/warp) - A framework-independent Relying Party implemnetation for Go.
 - [fumieval: webauthn](https://github.com/fumieval/webauthn) - Fledgling Haskell implementation.
@@ -81,7 +81,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Mozilla: authenticator-rs](https://github.com/mozilla/authenticator-rs/) - Rust library to interact with Security Keys, used by Firefox.
 - [Firstyear: webauthn-authenticator-rs](https://github.com/Firstyear/webauthn-rs) - Rust library for interacting with Security Keys, based on authenticator-rs, but with extensions to support CTAP2.1 and NFC.
 - [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
-- [MasterKale: @simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end **@simplewebauthn/server** (see [Server Libs](#server-libs)). Also works with Duo's py_webauthn.
+- [MasterKale: @simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/browser) - WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end **@simplewebauthn/server** (see [Server Libs](#server-libs)). Also works with Duo's py_webauthn.
 - [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps.
 
 ## Software Authenticators

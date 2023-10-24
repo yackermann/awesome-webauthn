@@ -1,22 +1,30 @@
-# WebAuthn and Passkey Awesome
+#  #  🔐 WebAuthn and Passkey Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/herrjemand/awesome-webauthn?style=social)
 
-- [WebAuthn Awesome](#WebAuthn-Awesome)
-  - [Demos](#demos)
-  - [Server Libs](#server-libs)
-  - [Client Libs](#client-libs)
-  - [Software Authenticators](#software-authenticators)
-  - [Hardware Authenticators](#hardware-authenticators)
-  - [Dev tools](#dev-tools)
+> Curated list of tools and projects related to WebAuthn and Passkeys
 
-- [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Slides](#slides)
-  - [Books](#books)
+WebAuthn is a W3C standard that allows users to authenticate to websites using their preferred device. WebAuthn is supported by most browsers and platforms, and can be used with FIDO2, CTAP, U2F, and other devices.
 
-- [FAQ](#faq)
-- [Contributions guidelines](./CONTRIBUTIONS.md)
-- [License](#license)
+Passkey is an umbrella term that basically means FIDO.
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
+
+## Table of Contents
+
+- [🔐 WebAuthn and Passkey Awesome](#-awesome-webauthn--)
+  - [WebAuthn Awesome](#WebAuthn-Awesome)
+    - [Demos](#demos)
+    - [Server Libs](#server-libs)
+    - [Client Libs](#client-libs)
+    - [Software Authenticators](#software-authenticators)
+    - [Hardware Authenticators](#hardware-authenticators)
+    - [Dev tools](#dev-tools)
+  - [Resources](#resources)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Slides](#slides)
+    - [Books](#books)
+  - [FAQ](#faq)
+  - [License](#license)
 
 ## Demos
  - [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification https://webauthn.io/

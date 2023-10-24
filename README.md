@@ -1,4 +1,4 @@
-#  #  🔐 WebAuthn and Passkey Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/herrjemand/awesome-webauthn?style=social)
+# 🔐 WebAuthn and Passkey Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/herrjemand/awesome-webauthn?style=social)
 
 > Curated list of tools and projects related to WebAuthn and Passkeys
 

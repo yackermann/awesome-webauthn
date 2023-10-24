@@ -1,4 +1,4 @@
-# WebAuthn and Passkey Awesome [![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# WebAuthn and Passkey Awesome
 
 - [WebAuthn Awesome](#WebAuthn-Awesome)
   - [Demos](#demos)

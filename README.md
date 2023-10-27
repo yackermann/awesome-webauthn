@@ -9,18 +9,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-- [🔐 WebAuthn and Passkey Awesome](#-awesome-webauthn--)
-  - [Demos](#demos)
-  - [Server Libs](#server-libs)
-  - [Client Libs](#client-libs)
-  - [Software Authenticators](#software-authenticators)
-  - [Hardware Authenticators](#hardware-authenticators)
-  - [Dev tools](#dev-tools)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Slides](#slides)
-  - [Books](#books)
-  - [FAQ](#faq)
+- [Demos](#demos)
+- [Server Libs](#server-libs)
+- [Client Libs](#client-libs)
+- [Software Authenticators](#software-authenticators)
+- [Hardware Authenticators](#hardware-authenticators)
+- [Dev tools](#dev-tools)
+- [Tutorials](#tutorials)
+- [Articles](#articles)
+- [Slides](#slides)
+- [Books](#books)
+- [FAQ](#faq)
 
 ## Demos
 - [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification https://webauthn.io/.

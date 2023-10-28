@@ -9,8 +9,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contents
 - [Demos](#demos)
-- [Server Libs](#server-libs)
-- [Client Libs](#client-libs)
+- [Server Libraries](#server-libraries)
+- [Client Libraries](#client-libraries)
 - [Software Authenticators](#software-authenticators)
 - [Hardware Authenticators](#hardware-authenticators)
 - [Dev tools](#dev-tools)
@@ -18,6 +18,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Articles](#articles)
 - [Slides](#slides)
 - [Books](#books)
+- [Other](#other)
 - [FAQ](#faq)
 
 ## Demos
@@ -42,7 +43,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [webauthn-skeleton: Node.js/Koa application](https://github.com/Hexagon/webauthn-skeleton) - This is a working skeleton of a Node.js/Koa application with passwordless login (Web Authentication API, WebAuthN, FIDO2).
 - [Dashlane: Android passkey example app](https://github.com/Dashlane/android-passkey-example) - An example Android application that demonstrates native passkey support.
 
-## Server Libs
+## Server Libraries
 - `FIDO CERTIFIED™` [LINE: FIDO2 Server](https://github.com/line/line-fido2-server) - FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.
 - `FIDO CONFORMANT` [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET.
 - `FIDO CONFORMANT` [WebAuthn4J Project: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification.
@@ -69,7 +70,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [lbuchs: PHP Webauthn](https://github.com/lbuchs/webauthn) - A simple PHP WebAuthn (FIDO2) server library.
 - [Robur: webauthn](https://github.com/roburio/webauthn) - An IO-agnostic WebAuthn server implementation written in OCaml.
 
-## Client Libs
+## Client Libraries
 - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID.
 - [Yubico: libfido2](https://github.com/Yubico/libfido2) - C client library and command-line tools to communicate with a FIDO device over USB, and to verify attestation and assertion signatures.
 - [keys.pub: go-libfido2](https://github.com/keys-pub/go-libfido2) - Go client library (wraps Yubico: libfido2).

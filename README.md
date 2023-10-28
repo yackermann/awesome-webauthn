@@ -7,8 +7,7 @@ Passkey is an umbrella term that basically means FIDO.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
 
-## Table of Contents
-
+## Contents
 - [Demos](#demos)
 - [Server Libs](#server-libs)
 - [Client Libs](#client-libs)

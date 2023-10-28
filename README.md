@@ -117,9 +117,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Articles
 - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand)
 - [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/)
-- [Watahani のブログ](https://blog.haniyama.com/) - 技術メモとか料理ネタとか
+- [Watahani: のブログ](https://blog.haniyama.com/) - JP: 技術メモとか料理ネタとか.
 - [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe)
-- [Ken¥d のブログ](https://ken5scal.hatenablog.com/) - セキュリティ, Android, Cloud Nativeについてまとめるブログです
+- [Ken¥d: のブログ](https://ken5scal.hatenablog.com/) - JP: セキュリティ, Android, Cloud Nativeについてまとめるブログです.
 - [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo)
 - [上野博司/super_reader: Yahoo! JAPANでの生体認証の取り組み(FIDO2サーバーの仕組みについて)](https://techblog.yahoo.co.jp/advent-calendar-2018/webauthn/) - Yahoo! JAPAN FIDO2 サーバーの仕組みに関するブログ.
 - [パスワードレス認証WebAuthnの勘所と対応状況](https://gihyo.jp/dev/column/newyear/2019/webauthn)

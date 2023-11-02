@@ -8,24 +8,27 @@ Passkey is an umbrella term that basically means FIDO.
 Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Contents
-- [Demos](#demos)
-- [Server Libraries](#server-libraries)
-- [Client Libraries](#client-libraries)
-- [Software Authenticators](#software-authenticators)
-- [Hardware Authenticators](#hardware-authenticators)
-- [Dev tools](#dev-tools)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-- [Slides](#slides)
-- [Books](#books)
-- [Other](#other)
-- [FAQ](#faq)
+- [🔐 WebAuthn Awesome ](#-webauthn-awesome-)
+  - [Contents](#contents)
+  - [Demos](#demos)
+  - [Server Libraries](#server-libraries)
+  - [Client Libraries](#client-libraries)
+  - [Software Authenticators](#software-authenticators)
+  - [Hardware Authenticators](#hardware-authenticators)
+  - [Dev tools](#dev-tools)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
+  - [Slides](#slides)
+  - [Books](#books)
+  - [Other](#other)
+  - [FAQ](#faq)
 
 ## Demos
 - [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification https://webauthn.io/.
 - [Adam Powers: WebAuthn Demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers. Live: https://webauthn.org.
 - [Anders Åberg: .NET library for FIDO2 Demo](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for FIDO2 and WebAuthn using .NET https://fido2.azurewebsites.net/.
 - [Auth0: WebAuthn Demo](https://webauthn.me/) - Probably the best WebAuthn flow demo.
+- [Dynamic: Passkeys Web3 Wallets Demo](https://passkeys.dynamic.xyz/) - Using passkeys to authenticate for an embedded web3 wallet. 
 - [Google: WebAuthn Demo](https://github.com/google/webauthndemo) - An example Java Relying Party implementation of the WebAuthn specification [https://webauthndemo.appspot.com](https://webauthndemo.appspot.com).
 - [Yubico: WebAuthn Demo](https://demo.yubico.com/webauthn) - Provides technical details of WebAuthn data flow and includes a playground to test a U2F/FIDO2 key as a second factor or passwordless key.
 - [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication https://webauthn.bin.coffee/.

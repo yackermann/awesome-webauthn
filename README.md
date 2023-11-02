@@ -8,8 +8,6 @@ Passkey is an umbrella term that basically means FIDO.
 Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Contents
-- [🔐 WebAuthn Awesome ](#-webauthn-awesome-)
-  - [Contents](#contents)
   - [Demos](#demos)
   - [Server Libraries](#server-libraries)
   - [Client Libraries](#client-libraries)

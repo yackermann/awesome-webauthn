@@ -86,6 +86,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
 - [MasterKale: @simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/browser) - WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end **@simplewebauthn/server** (see [Server Libs](#server-libs)). Also works with Duo's py_webauthn.
 - [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps.
+- [WIOSense: rauth-android](https://github.com/WIOsense/rauth-android) - Android library for FIDO2 roaming authenticator.
+
 
 ## Software Authenticators
 - [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token.
@@ -94,6 +96,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [adessoSE: softauthn](https://github.com/adessoSE/softauthn) - FIDO2 authenticator emulator/software token in Java.
 - [Daniel Stiner: Rust U2F](https://github.com/danstiner/rust-u2f) - U2F security token emulator written in Rust.
 - [Firstyear: webauthn-authenticator-rs](https://github.com/Firstyear/webauthn-rs) - Contains a software webauthn token with ephemeral attestation CA allowing richer testing of device policies.
+- [tjado mäcke: Authorizer](https://github.com/tejado/Authorizer) - An Android password manager based on psafe3 files which supports FIDO2 WebAuthn over BLE.
  
 ## Hardware Authenticators
 - `FIDO CERTIFIED™` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at solokeys.com

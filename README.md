@@ -1,7 +1,7 @@
 # 🔐 WebAuthn Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Curated list of tools and projects related to WebAuthn and Passkeys
 
-WebAuthn is a W3C standard that allows users to authenticate to websites using their preferred device. WebAuthn is supported by most browsers and platforms, and can be used with FIDO2, CTAP, U2F, and other devices.
+[WebAuthn](https://en.wikipedia.org/wiki/WebAuthn) is a W3C standard that allows users to authenticate to websites using their preferred device. WebAuthn is supported by most browsers and platforms, and can be used with FIDO2, CTAP, U2F, and other devices.
 
 Passkey is an umbrella term that basically means FIDO.
 

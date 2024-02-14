@@ -22,7 +22,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FAQ](#faq)
 
 ## Demos
-- [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification [https://webauthn.io/](https://webauthn.io/).
+- [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A demonstration of the WebAuthn Specification [https://webauthn.io/](https://webauthn.io/).
 - [Adam Powers: WebAuthn Demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers. Live: [https://webauthn.org](https://webauthn.org).
 - [Anders Åberg: .NET library for FIDO2 Demo](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for FIDO2 and WebAuthn using .NET [https://fido2-net-lib.passwordless.dev/](https://fido2-net-lib.passwordless.dev/).
 - [Auth0: WebAuthn Demo](https://webauthn.me/) - Probably the best WebAuthn flow demo.
@@ -37,7 +37,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Anders Rundgren: FIDO Web Pay](https://github.com/cyberphone/fwp) - Public FIDO-based "wallet" demo and associated standards proposal.
 - [MasterKale: SimpleWebAuthn Demo](https://example.simplewebauthn.dev) - A working instance of the [SimpleWebAuthn example project](https://github.com/MasterKale/SimpleWebAuthn/tree/master/example) showcasing both its server and browser libraries.
 - [MasterKale: WebAuthn Debugger](https://debugger.simplewebauthn.dev/) - A WebAuthn registration and authentication response previewer.
-- [WebAuthn Viewer](https://inabajunmr.github.io/webauthn-viewer/) - A GUI Based WebAuthn API response viewer.
+- [WebAuthn Viewer](https://inabajunmr.github.io/webauthn-viewer/) - A GUI based WebAuthn API response viewer.
 - [Chris Keogh: dotnetcore IdentityServer4 DEMO](https://github.com/dbfr3qs/PasswordlessAuthExample) - A WebAuthN demo using dotnetcore and the FIDO2.NET library that integrates passwordless auth with [IdentityServer4](https://github.com/IdentityServer/IdentityServer4).
 - [Firstyear: Webauthn RS demo and compatability tester](https://webauthn.firstyear.id.au/) - A demo of Webauthn using Webauthn-RS, with WASM browser components and an exhaustive device compatibility and stress tester.
 - [webauthn-skeleton: Node.js/Koa application](https://github.com/Hexagon/webauthn-skeleton) - This is a working skeleton of a Node.js/Koa application with passwordless login (Web Authentication API, WebAuthN, FIDO2).
@@ -99,13 +99,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [tjado mäcke: Authorizer](https://github.com/tejado/Authorizer) - An Android password manager based on psafe3 files which supports FIDO2 WebAuthn over BLE.
  
 ## Hardware Authenticators
-- `FIDO CERTIFIED™` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at solokeys.com
+- `FIDO CERTIFIED™` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at [https://solokeys.com](https://solokeys.com).
 - `FIDO CONFORMANT` [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.
 - [Trezor](https://github.com/trezor/trezor-core/tree/master/src/apps/webauthn) - Trezor is an open source hardware wallet with FIDO/U2F and FIDO2/WebAuthn functionality.
 - [Google: OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [Nitrokey](https://github.com/Nitrokey) - Nitrokey is developing/producing different types of open source and open hardware FIDO2 security keys (check for the "Nitrokey FIDO2" and "Nitrokey 3" related repositories).
-- [BryanJacobs: FIDO2Applet](https://github.com/BryanJacobs/FIDO2Applet) - FIDO2 CTAP2 Javacard Applet
-- [darconeous: u2f-javacard](https://github.com/darconeous/u2f-javacard) - A privacy-focused Java Card U2F Authenticator based on ledger-u2f-javacard (More recent fork of [Ledger](https://github.com/LedgerHQ/ledger-u2f-javacard))
+- [BryanJacobs: FIDO2Applet](https://github.com/BryanJacobs/FIDO2Applet) - FIDO2 CTAP2 Javacard Applet.
+- [darconeous: u2f-javacard](https://github.com/darconeous/u2f-javacard) - A privacy-focused Java Card U2F Authenticator based on ledger-u2f-javacard (More recent fork of [Ledger](https://github.com/LedgerHQ/ledger-u2f-javacard)).
 
 
 
@@ -122,7 +122,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passkeys.dev](https://passkeys.dev/) - A greate guide on starting with passkeys.
 - [WebAuthn Guide: DUOSEC](https://webauthn.guide/) - Great WebAuthn begginers guide by Suby Raman.
 - [Yubico Labs: WebAuthn Starter Kit Reference Deployment](https://github.com/YubicoLabs/WebAuthnKit) - How an identifier-first flow helps migrate users towards passwordless. Integrates Yubico's java-webauthn-server with AWS Lambda and AWS Cognito. Includes example web and iOS clients. See [Reference Architecture](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/).
-- [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop)
+- [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop) - Yubico java discoverable credentials workshop.
 - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google.
 - [FIDO Alliance: How To FIDO](https://github.com/fido-alliance/how-to-fido/blob/master/HowToFIDO.md) - A definitive guide on good FIDO UI/UX.
 
@@ -130,12 +130,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand) - Great blog for those who wish to go in-depth with WebAuthn.
 - [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/) - A fantastic introduction to WebAuthn by folks at Auth0.
 - [Watahani: のブログ](https://blog.haniyama.com/) - JP: 技術メモとか料理ネタとか.
-- [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe)
+- [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe) - Probably the best CredManAPI guide.
 - [Ken¥d: のブログ](https://ken5scal.hatenablog.com/) - JP: セキュリティ, Android, Cloud Nativeについてまとめるブログです.
-- [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo) - 認証,認可,FIDO,CTAP,NFC,BLE,c,c++,c#,Rust,ねこのげぼく
+- [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo) - 認証,認可,FIDO,CTAP,NFC,BLE,c,c++,c#,Rust,ねこのげぼく.
 - [上野博司/super_reader: Yahoo! JAPANでの生体認証の取り組み(FIDO2サーバーの仕組みについて)](https://techblog.yahoo.co.jp/advent-calendar-2018/webauthn/) - Yahoo! JAPAN FIDO2 サーバーの仕組みに関するブログ.
-- [パスワードレス認証WebAuthnの勘所と対応状況](https://gihyo.jp/dev/column/newyear/2019/webauthn) - WebAuthn API と基本的な FIDO 概念の概要
-- [パスワードの不要な世界はいかにして実現されるのか - FIDO2 と WebAuthn の基本を知る](https://blog.agektmr.com/2019/03/fido-webauthn.html) - 北村さん、パスワードレスの世界づくりについて語る
+- [パスワードレス認証WebAuthnの勘所と対応状況](https://gihyo.jp/dev/column/newyear/2019/webauthn) - WebAuthn API と基本的な FIDO 概念の概要.
+- [パスワードの不要な世界はいかにして実現されるのか - FIDO2 と WebAuthn の基本を知る](https://blog.agektmr.com/2019/03/fido-webauthn.html) - 北村さん、パスワードレスの世界づくりについて語る.
 - [Damien Bod: ASP.NET CORE IDENTITY WITH FIDO2 WEBAUTHN MFA](https://damienbod.com/2019/08/06/asp-net-core-identity-with-fido2-webauthn-mfa/) - This article shows how Fido2 WebAuthn could be used as 2FA and integrated into an ASP.NET Core Identity application.
 - [Paul Stamatiou: Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - How to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys. (Less technical but a very usefull article).
 - [Adam Powers FIDO Alliance: The Truth about Attestation](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/) - A woundeful tech article about attestations.
@@ -146,7 +146,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Slides
 - [Yuriy Ackermann: WebAuthn Overview](https://slides.com/herrjemand/webauthn-overview) - Introduction to WebAuthn Slide deck from 2019 talks.
-- [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2) - Great guide for those who want to add passkey support to their Android app
+- [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2) - Great guide for those who want to add passkey support to their Android app.
 - [WebAuthn Works: Slides](https://slides.com/webauthnworks/) - A library of slides by Yuriy Ackermann and WebAuthn Works in English and Russian.
 
 ## Books

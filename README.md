@@ -118,9 +118,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [WebAuthn Playground](https://opotonniee.github.io/webauthn-playground/) - A web page (no server) to test WebAuthn operations with configurable parameters, and view/parse responses.
 
 ## Tutorials
-- [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
+- [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285) - In depth article grinding through WebAuthn API, and how to use it.
 - [Passkeys.dev](https://passkeys.dev/) - A greate guide on starting with passkeys.
-- [WebAuthn Guide: DUOSEC](https://webauthn.guide/)
+- [WebAuthn Guide: DUOSEC](https://webauthn.guide/) - Great WebAuthn begginers guide by Suby Raman.
 - [Yubico Labs: WebAuthn Starter Kit Reference Deployment](https://github.com/YubicoLabs/WebAuthnKit) - How an identifier-first flow helps migrate users towards passwordless. Integrates Yubico's java-webauthn-server with AWS Lambda and AWS Cognito. Includes example web and iOS clients. See [Reference Architecture](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/).
 - [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop)
 - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google.
@@ -146,7 +146,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Slides
 - [Yuriy Ackermann: WebAuthn Overview](https://slides.com/herrjemand/webauthn-overview) - Introduction to WebAuthn Slide deck from 2019 talks.
-- [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2)
+- [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2) - Great guide for those who want to add passkey support to their Android app
 - [WebAuthn Works: Slides](https://slides.com/webauthnworks/) - A library of slides by Yuriy Ackermann and WebAuthn Works in English and Russian.
 
 ## Books

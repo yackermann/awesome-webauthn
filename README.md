@@ -127,15 +127,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FIDO Alliance: How To FIDO](https://github.com/fido-alliance/how-to-fido/blob/master/HowToFIDO.md) - A definitive guide on good FIDO UI/UX.
 
 ## Articles
-- [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand)
-- [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/)
+- [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand) - Great blog for those who wish to go in-depth with WebAuthn.
+- [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/) - A fantastic introduction to WebAuthn by folks at Auth0.
 - [Watahani: のブログ](https://blog.haniyama.com/) - JP: 技術メモとか料理ネタとか.
 - [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe)
 - [Ken¥d: のブログ](https://ken5scal.hatenablog.com/) - JP: セキュリティ, Android, Cloud Nativeについてまとめるブログです.
-- [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo)
+- [gebo: CTAP2 お勉強メモ ブログ](https://qiita.com/gebo) - 認証,認可,FIDO,CTAP,NFC,BLE,c,c++,c#,Rust,ねこのげぼく
 - [上野博司/super_reader: Yahoo! JAPANでの生体認証の取り組み(FIDO2サーバーの仕組みについて)](https://techblog.yahoo.co.jp/advent-calendar-2018/webauthn/) - Yahoo! JAPAN FIDO2 サーバーの仕組みに関するブログ.
-- [パスワードレス認証WebAuthnの勘所と対応状況](https://gihyo.jp/dev/column/newyear/2019/webauthn)
-- [パスワードの不要な世界はいかにして実現されるのか - FIDO2 と WebAuthn の基本を知る](https://blog.agektmr.com/2019/03/fido-webauthn.html)
+- [パスワードレス認証WebAuthnの勘所と対応状況](https://gihyo.jp/dev/column/newyear/2019/webauthn) - WebAuthn API と基本的な FIDO 概念の概要
+- [パスワードの不要な世界はいかにして実現されるのか - FIDO2 と WebAuthn の基本を知る](https://blog.agektmr.com/2019/03/fido-webauthn.html) - 北村さん、パスワードレスの世界づくりについて語る
 - [Damien Bod: ASP.NET CORE IDENTITY WITH FIDO2 WEBAUTHN MFA](https://damienbod.com/2019/08/06/asp-net-core-identity-with-fido2-webauthn-mfa/) - This article shows how Fido2 WebAuthn could be used as 2FA and integrated into an ASP.NET Core Identity application.
 - [Paul Stamatiou: Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - How to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys. (Less technical but a very usefull article).
 - [Adam Powers FIDO Alliance: The Truth about Attestation](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/) - A woundeful tech article about attestations.
@@ -145,7 +145,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [webauthn.wft](https://webauthn.wtf/) - A good overview with many detailed links to dig deeper if interested.
 
 ## Slides
-- [Yuriy Ackermann: WebAuthn Overview](https://slides.com/herrjemand/webauthn-overview)
+- [Yuriy Ackermann: WebAuthn Overview](https://slides.com/herrjemand/webauthn-overview) - Introduction to WebAuthn Slide deck from 2019 talks.
 - [Implementing FIDO on Android Side using com.google.android.gms.fido.fido2](https://speakerdeck.com/ken5scal/deep-dive-to-com-dot-google-dot-android-dot-gms-dot-fido-dot-fido2)
 - [WebAuthn Works: Slides](https://slides.com/webauthnworks/) - A library of slides by Yuriy Ackermann and WebAuthn Works in English and Russian.
 

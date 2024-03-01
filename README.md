@@ -155,6 +155,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
  
 ## Other
 - [webauthn-open-source: WebAuthn Logos](https://github.com/webauthn-open-source/webauthn-logos) - Awesome webauthn logos by Adam Powers.
+- [CTAP2.1 Migration Guide](https://github.com/WebauthnWorks/CTAP2.1-Migration-Guide) - A guide for those who have CTAP2.0 authenticator, and they want to migrate to CTAP2.1
 
 ## FAQ
 

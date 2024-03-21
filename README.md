@@ -120,7 +120,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Tutorials
 - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285) - In depth article grinding through WebAuthn API, and how to use it.
 - [Passkeys.dev](https://passkeys.dev/) - A greate guide on starting with passkeys.
-- [WebAuthn Guide: DUOSEC](https://webauthn.guide/) - Great WebAuthn begginers guide by Suby Raman.
+- [WebAuthn Guide: DUOSEC](https://webauthn.guide/) - Great WebAuthn beginners guide by Suby Raman.
 - [Yubico Labs: WebAuthn Starter Kit Reference Deployment](https://github.com/YubicoLabs/WebAuthnKit) - How an identifier-first flow helps migrate users towards passwordless. Integrates Yubico's java-webauthn-server with AWS Lambda and AWS Cognito. Includes example web and iOS clients. See [Reference Architecture](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/).
 - [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop) - Yubico java discoverable credentials workshop.
 - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google.
@@ -156,6 +156,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Other
 - [webauthn-open-source: WebAuthn Logos](https://github.com/webauthn-open-source/webauthn-logos) - Awesome webauthn logos by Adam Powers.
 - [CTAP2.1 Migration Guide](https://github.com/WebauthnWorks/CTAP2.1-Migration-Guide) - A guide for those who have CTAP2.0 authenticator, and they want to migrate to CTAP2.1
+- [Passkeys/WebAuthn Cheat Sheet](https://www.corbado.com/blog/passkeys-cheat-sheet) - A 2-sided PDF explaining all relevant objects, concepts and ressources to implement passkeys.
 
 ## FAQ
 

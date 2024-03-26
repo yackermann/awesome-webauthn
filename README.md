@@ -23,7 +23,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Demos
 - [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A demonstration of the WebAuthn Specification [https://webauthn.io/](https://webauthn.io/).
-- [Adam Powers: WebAuthn Demo](https://github.com/apowers313/fido2-server-demo) - A set of FIDO2 / WebAuthn demo servers. Live: [https://webauthn.org](https://webauthn.org).
 - [Anders Åberg: .NET library for FIDO2 Demo](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for FIDO2 and WebAuthn using .NET [https://fido2-net-lib.passwordless.dev/](https://fido2-net-lib.passwordless.dev/).
 - [Auth0: WebAuthn Demo](https://webauthn.me/) - Probably the best WebAuthn flow demo.
 - [Google: WebAuthn Demo](https://github.com/google/webauthndemo) - An example Java Relying Party implementation of the WebAuthn specification [https://webauthndemo.appspot.com](https://webauthndemo.appspot.com).

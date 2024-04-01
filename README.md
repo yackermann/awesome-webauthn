@@ -87,7 +87,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps.
 - [WIOSense: rauth-android](https://github.com/WIOsense/rauth-android) - Android library for FIDO2 roaming authenticator.
 
-
 ## Software Authenticators
 - [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token.
 - [Fabian Henneke: WearAuthn](https://github.com/FabianHenneke/WearAuthn) - FIDO2 Bluetooth HID/NFC soft token for Wear OS watches with support for resident keys.
@@ -105,8 +104,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Nitrokey](https://github.com/Nitrokey) - Nitrokey is developing/producing different types of open source and open hardware FIDO2 security keys (check for the "Nitrokey FIDO2" and "Nitrokey 3" related repositories).
 - [BryanJacobs: FIDO2Applet](https://github.com/BryanJacobs/FIDO2Applet) - FIDO2 CTAP2 Javacard Applet.
 - [darconeous: u2f-javacard](https://github.com/darconeous/u2f-javacard) - A privacy-focused Java Card U2F Authenticator based on ledger-u2f-javacard (More recent fork of [Ledger](https://github.com/LedgerHQ/ledger-u2f-javacard)).
-
-
 
 ## Dev tools
 - [Shane B Weeden: FIDO2 Postman Clients](https://github.com/sbweeden/fido2-postman-clients) - FIDO2 Postman clients to easily test your FIDO2 API endpoints.
@@ -151,11 +148,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Books
 - [Getting started with WebAuthn](https://my-transistor.booth.pm/items/1157260) - コミックマーケット95で頒布した同人誌「Getting started with WebAuthn」の電子版(PDF)です.
 - [Password authentication for web and mobile apps](https://dchest.com/authbook/) - A book by Dmitry Chestnykh @dchest about authentication on web and mobile. Talks in depth about correct password authenticatoin, and additionally introduces to FIDO2/Webauthn.
- 
+
 ## Other
 - [webauthn-open-source: WebAuthn Logos](https://github.com/webauthn-open-source/webauthn-logos) - Awesome webauthn logos by Adam Powers.
 - [CTAP2.1 Migration Guide](https://github.com/WebauthnWorks/CTAP2.1-Migration-Guide) - A guide for those who have CTAP2.0 authenticator, and they want to migrate to CTAP2.1
 - [Passkeys/WebAuthn Cheat Sheet](https://www.corbado.com/blog/passkeys-cheat-sheet) - A 2-sided PDF explaining all relevant objects, concepts and ressources to implement passkeys.
+- [WebAuthn Wiki](https://github.com/w3c/webauthn/wiki) - WebAuthn API spec official explainers and wiki
 
 ## FAQ
 

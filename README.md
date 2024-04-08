@@ -95,6 +95,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Daniel Stiner: Rust U2F](https://github.com/danstiner/rust-u2f) - U2F security token emulator written in Rust.
 - [Firstyear: webauthn-authenticator-rs](https://github.com/Firstyear/webauthn-rs) - Contains a software webauthn token with ephemeral attestation CA allowing richer testing of device policies.
 - [tjado mäcke: Authorizer](https://github.com/tejado/Authorizer) - An Android password manager based on psafe3 files which supports FIDO2 WebAuthn over BLE.
+- [bulwarkid: virtual-fido](https://github.com/bulwarkid/virtual-fido) - virtual-fido is an Golang based commandline application which emulates an USB security token. This can also be used as a library.
+- [bulwarkid: bulwark-passkeys](https://github.com/bulwarkid/bulwark-passkey) - Bulwark passkeys is a desktop application written in Golang supporting CTAP2, similar to a platform-based authenticator.
  
 ## Hardware Authenticators
 - `FIDO CERTIFIED™` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at [https://solokeys.com](https://solokeys.com).

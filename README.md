@@ -46,6 +46,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Server Libraries
 - `FIDO CERTIFIED™` [LINE: FIDO2 Server](https://github.com/line/line-fido2-server) - FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.
+- `FIDO CERTIFIED™` [Hanko: Passkey Server](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey & WebAuthn server written in Go. Includes a JavaScript client SDK and a passkey provider for Auth.js (Next-Auth).
 - `FIDO CONFORMANT` [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET.
 - `FIDO CONFORMANT` [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) - A production-ready, easy-to-use, extensible implementation of WebAuthn for web applications on .NET 6 and .NET 8 + demo.
 - `FIDO CONFORMANT` [WebAuthn4J Project: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification.

@@ -157,6 +157,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [CTAP2.1 Migration Guide](https://github.com/WebauthnWorks/CTAP2.1-Migration-Guide) - A guide for those who have CTAP2.0 authenticator, and they want to migrate to CTAP2.1
 - [Passkeys/WebAuthn Cheat Sheet](https://www.corbado.com/blog/passkeys-cheat-sheet) - A 2-sided PDF explaining all relevant objects, concepts and ressources to implement passkeys.
 - [WebAuthn Wiki](https://github.com/w3c/webauthn/wiki) - WebAuthn API spec official explainers and wiki
+- [State of Passkeys](https://state-of-passkeys.io/) - Info page that shows current data about passkey-readiness of operating systems and browsers
 
 ## FAQ
 

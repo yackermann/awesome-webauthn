@@ -115,6 +115,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Descope: VirtualWebAuthn Test Tool](https://github.com/descope/virtualwebauthn) - A GO package to automate testing of a relying party WebAuthn server implementation without requiring a browser or an actual authenticator.
 - [FIDO MDS Explorer](https://opotonniee.github.io/fido-mds-explorer/) - A user-friendly web UI to explore the FIDO Metadata Service repository, which contains detailed characteristics and attestation certificates of authenticators registered to the FIDO Alliance.
 - [WebAuthn Playground](https://opotonniee.github.io/webauthn-playground/) - A web page (no server) to test WebAuthn operations with configurable parameters, and view/parse responses.
+- [Passkeys Debugger](https://www.passkeys-debugger.io/) - A simple website to test different passkeys / WebAuthn server settings and client responses.
 
 ## Tutorials
 - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285) - In depth article grinding through WebAuthn API, and how to use it.

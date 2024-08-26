@@ -75,6 +75,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Robur: webauthn](https://github.com/roburio/webauthn) - An IO-agnostic WebAuthn server implementation written in OCaml.
 - [Passwordless.ID: WebAuthn lib](https://github.com/passwordless-id/webauthn) - A simple, minimal, opinionated typescript wrapper around WebAuthn. Features both client side to invoke WebAuthn and server side to verify credentials.
 - [swift-server: webauthn-swift](https://github.com/swift-server/webauthn-swift/tree/main) - A Swift library for implementing the WebAuthn specs on server.
+- [kanidm: webauthn-rs](https://github.com/kanidm/webauthn-rs) - An implementation of webauthn components for Rustlang servers.
+  
 ## Client Libraries
 - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID.
 - [Yubico: libfido2](https://github.com/Yubico/libfido2) - C client library and command-line tools to communicate with a FIDO device over USB, and to verify attestation and assertion signatures.

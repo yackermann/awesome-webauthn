@@ -101,6 +101,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [tjado mäcke: Authorizer](https://github.com/tejado/Authorizer) - An Android password manager based on psafe3 files which supports FIDO2 WebAuthn over BLE.
 - [bulwarkid: virtual-fido](https://github.com/bulwarkid/virtual-fido) - virtual-fido is an Golang based commandline application which emulates an USB security token. This can also be used as a library.
 - [bulwarkid: bulwark-passkeys](https://github.com/bulwarkid/bulwark-passkey) - Bulwark passkeys is a desktop application written in Golang supporting CTAP2, similar to a platform-based authenticator.
+- [Pol Henarejos: pico-fido](https://github.com/polhenarejos/pico-fido) - This project transforms your Raspberry Pi Pico into an integrated FIDO Passkey, functioning like a standard USB Passkey for authentication
+
  
 ## Hardware Authenticators
 - `FIDO CERTIFIED™` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at [https://solokeys.com](https://solokeys.com).

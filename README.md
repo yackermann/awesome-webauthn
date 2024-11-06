@@ -127,6 +127,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [CTAP 2.1 specs](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)- Client to Authenticator protocol v2.1
 - [WebAuthn draft](https://w3c.github.io/webauthn/)- Webauthn draft
 - [CBOR specifications](https://cbor.io/spec.html) - A CBOR specification page with most recent updates and libraries for using CBOR in various programming languages.
+- [Credential Exchange Specifications](https://fidoalliance.org/specifications-credential-exchange-specifications/) - Credential Exchange Protocol (CXP) & Credential Exchange Format (CXF), working drafts
 
 ## Tutorials
 - [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285) - In depth article grinding through WebAuthn API, and how to use it.

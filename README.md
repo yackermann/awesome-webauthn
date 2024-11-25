@@ -121,6 +121,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Olivier Potonniée: FIDO MDS Explorer](https://opotonniee.github.io/fido-mds-explorer/) - A user-friendly web UI to explore the FIDO Metadata Service repository, which contains detailed characteristics and attestation certificates of authenticators registered to the FIDO Alliance.
 - [WebAuthn Playground](https://opotonniee.github.io/webauthn-playground/) - A web page (no server) to test WebAuthn operations with configurable parameters, and view/parse responses.
 - [Passkeys Debugger](https://www.passkeys-debugger.io/) - A simple website to test different passkeys / WebAuthn server settings and client responses.
+- [YAFU: Yet Another FIDO Utility](https://github.com/martinpaljak/YAFU) - Java library and CLI utility for working with CTAP devices over USBHID and NFC by [@martinpaljak](https://github.com/martinpaljak)
   
 ## Specifications
 - [FIDO latest specifications](https://fidoalliance.org/specifications/download/) - A right place to find most recent & original FIDO specifications.

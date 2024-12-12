@@ -31,7 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication [https://webauthn.bin.coffee/](https://webauthn.bin.coffee/).
 - [FIDO Alliance: Interop WebApp](https://github.com/fido-alliance/fido2-interop-webapp) - As simple test app for FIDO2 servers.
 - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework).
-- [Yuriy Ackermann: FIDO2 Demos](https://github.com/herrjemand/FIDO2WebAuthnSeries) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285#).
+- [Yuriy Ackermann: FIDO2 Demos](https://github.com/WebauthnWorks/PasskeysSamples) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@yackermann/introduction-to-webauthn-api-5fd1fb46c285#).
 - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
 - [Xavier Renard: Webauthn Demo](https://github.com/xarenard/webauthn_fido_java_react) - A working WebAuthn demo based on java Spring Boot and react.js.
 - [Anders Rundgren: FIDO Web Pay](https://github.com/cyberphone/fwp) - Public FIDO-based "wallet" demo and associated standards proposal.
@@ -131,7 +131,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Credential Exchange Specifications](https://fidoalliance.org/specifications-credential-exchange-specifications/) - Credential Exchange Protocol (CXP) & Credential Exchange Format (CXF), working drafts
 
 ## Tutorials
-- [Introduction to WebAuthn API](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285) - In depth article grinding through WebAuthn API, and how to use it.
+- [Introduction to WebAuthn API](https://medium.com/@yackermann/introduction-to-webauthn-api-5fd1fb46c285) - In depth article grinding through WebAuthn API, and how to use it.
 - [Passkeys.dev](https://passkeys.dev/) - A greate guide on starting with passkeys.
 - [WebAuthn Guide: DUOSEC](https://webauthn.guide/) - Great WebAuthn beginners guide by Suby Raman.
 - [Yubico Labs: WebAuthn Starter Kit Reference Deployment](https://github.com/YubicoLabs/WebAuthnKit) - How an identifier-first flow helps migrate users towards passwordless. Integrates Yubico's java-webauthn-server with AWS Lambda and AWS Cognito. Includes example web and iOS clients. See [Reference Architecture](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/).
@@ -140,7 +140,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FIDO Alliance: How To FIDO](https://github.com/fido-alliance/how-to-fido/blob/master/HowToFIDO.md) - A definitive guide on good FIDO UI/UX.
 
 ## Articles
-- [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@herrjemand) - Great blog for those who wish to go in-depth with WebAuthn.
+- [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@yackermann) - Great blog for those who wish to go in-depth with WebAuthn.
 - [Auth0: Introduction to Web Authentication](https://auth0.com/blog/introduction-to-web-authentication/) - A fantastic introduction to WebAuthn by folks at Auth0.
 - [Watahani: のブログ](https://blog.haniyama.com/) - JP: 技術メモとか料理ネタとか.
 - [Eiji Kitamura: Credential Management API and best practices](https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe) - Probably the best CredManAPI guide.

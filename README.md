@@ -168,6 +168,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Password authentication for web and mobile apps](https://dchest.com/authbook/) - A book by Dmitry Chestnykh @dchest about authentication on web and mobile. Talks in depth about correct password authenticatoin, and additionally introduces to FIDO2/Webauthn.
 
 ## Other
+- [DaryScam Project](https://github.com/DaryaScam) - Anti-phishing passkeys demos for instant messaging apps
 - [webauthn-open-source: WebAuthn Logos](https://github.com/webauthn-open-source/webauthn-logos) - Awesome webauthn logos by Adam Powers.
 - [CTAP2.1 Migration Guide](https://github.com/WebauthnWorks/CTAP2.1-Migration-Guide) - A guide for those who have CTAP2.0 authenticator, and they want to migrate to CTAP2.1
 - [Passkeys/WebAuthn Cheat Sheet](https://www.corbado.com/blog/passkeys-cheat-sheet) - A 2-sided PDF explaining all relevant objects, concepts and ressources to implement passkeys.

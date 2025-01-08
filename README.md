@@ -102,6 +102,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [bulwarkid: virtual-fido](https://github.com/bulwarkid/virtual-fido) - virtual-fido is an Golang based commandline application which emulates an USB security token. This can also be used as a library.
 - [bulwarkid: bulwark-passkeys](https://github.com/bulwarkid/bulwark-passkey) - Bulwark passkeys is a desktop application written in Golang supporting CTAP2, similar to a platform-based authenticator.
 - [Pol Henarejos: pico-fido](https://github.com/polhenarejos/pico-fido) - This project transforms your Raspberry Pi Pico into an integrated FIDO Passkey, functioning like a standard USB Passkey for authentication
+- [Peter Sanford: TPM FIDO](https://github.com/psanford/tpm-fido) - tpm-fido is FIDO token implementation for Linux that protects the token keys by using your system's TPM.
+- [Scott Leggett: PIV Agent](https://github.com/smlx/piv-agent) - An SSH and GPG agent which you can use with your PIV hardware security device (e.g. a Yubikey).
 
  
 ## Hardware Authenticators

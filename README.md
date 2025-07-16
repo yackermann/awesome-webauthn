@@ -44,6 +44,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Dashlane: Android passkey example app](https://github.com/Dashlane/android-passkey-example) - An example Android application that demonstrates native passkey support.
 - [Passwordless.ID WebAuthn lib playground](https://webauthn.passwordless.id/demos/playground.html) - Register, authenticate and verify WebAuthn credentials using this interactive playground.
 - [WebAuthn.Net Demo](https://webauthn.dodo.dev) - Demonstration of usage scenarios with [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) and ASP.NET Core 8.
+- [Authsignal: Banking use case demo](https://demo.authsignal.com) - An example of a banking use case with WebAuthn with automatic passkey upgrades feature.
 
 ## Server Libraries
 - `FIDO CERTIFIED™` [LINE: FIDO2 Server](https://github.com/line/line-fido2-server) - FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.

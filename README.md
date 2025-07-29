@@ -127,6 +127,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passkeys Debugger](https://www.passkeys-debugger.io/) - A simple website to test different passkeys / WebAuthn server settings and client responses.
 - [Martin Paljak: YAFU - Yet Another FIDO Utility](https://github.com/martinpaljak/YAFU) - Java library and CLI utility for working with CTAP devices over USBHID and NFC
 - [Passkey Origin Validator](https://github.com/developmeh/passkey-origin-validator) - CLI to verify Passkey Related Origin Request .well-known/webauthn configuration, shows label counts and origin matching.
+- [WebAuthnRecorder](https://github.com/inabajunmr/WebAuthnRecorder) - Chrome extension for recording and analyzing WebAuthn API (navigator.credentials) calls.
   
 ## Specifications
 - [FIDO latest specifications](https://fidoalliance.org/specifications/download/) - A right place to find most recent & original FIDO specifications.

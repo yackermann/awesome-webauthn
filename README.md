@@ -28,8 +28,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Auth0: WebAuthn Demo](https://webauthn.me/) - Probably the best WebAuthn flow demo.
 - [Google: WebAuthn Demo](https://github.com/google/webauthndemo) - An example Java Relying Party implementation of the WebAuthn specification [https://webauthndemo.appspot.com](https://webauthndemo.appspot.com).
 - [Yubico: WebAuthn Demo](https://demo.yubico.com/webauthn) - Provides technical details of WebAuthn data flow and includes a playground to test a U2F/FIDO2 key as a second factor or passwordless key.
-- [YubiKey WebAuthn Demo](https://github.com/iraycd/yubikey-webauthn-demo) - Complete WebAuthn implementation with YubiKey showing discoverable credentials, traditional authentication flows,
-  and full React/Express stack with proper server-side validation.
+- [YubiKey WebAuthn Code Demo](https://github.com/iraycd/yubikey-webauthn-demo) - Complete WebAuthn implementation with YubiKey showing discoverable credentials, traditional authentication flows,
+  and full React/Express stack with proper server-side validation [iraycd/yubikey-webauthn-demo](https://github.com/iraycd/yubikey-webauthn-demo).
 - [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication [https://webauthn.bin.coffee/](https://webauthn.bin.coffee/).
 - [FIDO Alliance: Interop WebApp](https://github.com/fido-alliance/fido2-interop-webapp) - As simple test app for FIDO2 servers.
 - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework).

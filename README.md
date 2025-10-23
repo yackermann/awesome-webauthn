@@ -45,6 +45,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passwordless.ID WebAuthn lib playground](https://webauthn.passwordless.id/demos/playground.html) - Register, authenticate and verify WebAuthn credentials using this interactive playground.
 - [WebAuthn.Net Demo](https://webauthn.dodo.dev) - Demonstration of usage scenarios with [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) and ASP.NET Core 8.
 - [Authsignal: Banking use case demo](https://demo.authsignal.com) - An example of a banking use case with WebAuthn with automatic passkey upgrades feature.
+- [MojoAuth: Passkey Playground](https://mojoauth.com/passkey-playground/) - A generic playground for testing and experimenting with passkey authentication across different platforms and browsers.
+
 
 ## Server Libraries
 - `FIDO CERTIFIED™` [LINE: FIDO2 Server](https://github.com/line/line-fido2-server) - FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.

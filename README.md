@@ -78,6 +78,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [swift-server: webauthn-swift](https://github.com/swift-server/webauthn-swift/tree/main) - A Swift library for implementing the WebAuthn specs on server.
 - [kanidm: webauthn-rs](https://github.com/kanidm/webauthn-rs) - An implementation of webauthn components for Rustlang servers.
 - [uzyn: Passcay](https://github.com/uzyn/passcay) - Passkey/WebAuthn library for Zig
+- [Passkeybot](https://github.com/emadda/passkeybot) - Add passkey auth with a few server side HTTP handlers.
   
 ## Client Libraries
 - [Yubico: python-fido2](https://github.com/Yubico/python-fido2) - Client Lib to talk to a hardware authenticators over USB HID.

@@ -45,7 +45,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passwordless.ID WebAuthn lib playground](https://webauthn.passwordless.id/demos/playground.html) - Register, authenticate and verify WebAuthn credentials using this interactive playground.
 - [WebAuthn.Net Demo](https://webauthn.dodo.dev) - Demonstration of usage scenarios with [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) and ASP.NET Core 8.
 - [Authsignal: Banking use case demo](https://demo.authsignal.com) - An example of a banking use case with WebAuthn with automatic passkey upgrades feature.
-- [Fun with Flags and Passkeys](https://learning.passkeys.tools) - Interactive demo verifiers for exploring WebAuthn/passkey registration and authentication flows (discoverable credentials, conditional UI, 2FA, etc.), listed here for its live demo environment.
+- [Fun with Flags and Passkeys](https://learning.passkeys.tools) - An interactive WebAuthn learning platform with CTF-style challenges and demo registration and authentication flows, covering discoverable/non-discoverable credentials, conditional UI, MFA, and over 30 intentionally vulnerable verifiers mapped to relevant W3C spec sections to illustrate common verification pitfalls.
 
 ## Server Libraries
 - `FIDO CERTIFIED™` [LINE: FIDO2 Server](https://github.com/line/line-fido2-server) - FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.
@@ -149,7 +149,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop) - Yubico java discoverable credentials workshop.
 - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google.
 - [FIDO Alliance: How To FIDO](https://github.com/fido-alliance/how-to-fido/blob/master/HowToFIDO.md) - A definitive guide on good FIDO UI/UX.
-- [Fun with Flags and Passkeys](https://learning.passkeys.tools) - An interactive WebAuthn security training platform featuring CTF-style challenges with intentionally vulnerable verifiers mapped to W3C spec sections, helping developers understand passkey verification pitfalls.
+- [Fun with Flags and Passkeys](https://learning.passkeys.tools) - An interactive WebAuthn learning platform with CTF-style challenges and demo registration and authentication flows, covering discoverable/non-discoverable credentials, conditional UI, MFA, and over 30 intentionally vulnerable verifiers mapped to relevant W3C spec sections to illustrate common verification pitfalls.
 
 ## Articles
 - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@yackermann) - Great blog for those who wish to go in-depth with WebAuthn.

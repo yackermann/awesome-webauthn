@@ -43,14 +43,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [webauthn-skeleton: Node.js/Koa application](https://github.com/Hexagon/webauthn-skeleton) - This is a working skeleton of a Node.js/Koa application with passwordless login (Web Authentication API, WebAuthN, FIDO2).
 - [Dashlane: Android passkey example app](https://github.com/Dashlane/android-passkey-example) - An example Android application that demonstrates native passkey support.
 - [Passwordless.ID WebAuthn lib playground](https://webauthn.passwordless.id/demos/playground.html) - Register, authenticate and verify WebAuthn credentials using this interactive playground.
-- [WebAuthn.Net Demo](https://webauthn.dodo.dev) - Demonstration of usage scenarios with [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) and ASP.NET Core 8.
+- [WebAuthn.Net Demo](https://webauthn.dodo.dev) - Demonstration of usage scenarios with [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) and ASP.NET Core.
 - [Authsignal: Banking use case demo](https://demo.authsignal.com) - An example of a banking use case with WebAuthn with automatic passkey upgrades feature.
 
 ## Server Libraries
 - `FIDO CERTIFIED™` [LINE: FIDO2 Server](https://github.com/line/line-fido2-server) - FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.
 - `FIDO CERTIFIED™` [Hanko: Passkey Server](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey & WebAuthn server written in Go. Includes a JavaScript client SDK and a passkey provider for Auth.js (Next-Auth).
 - `FIDO CONFORMANT` [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for fido2 and WebAuthn using .NET.
-- `FIDO CONFORMANT` [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) - A production-ready, easy-to-use, extensible implementation of WebAuthn for web applications on .NET 6 and .NET 8 + demo.
+- `FIDO CONFORMANT` [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) - A production-ready, easy-to-use, extensible implementation of WebAuthn for web applications on ASP.NET Core + demo.
 - `FIDO CONFORMANT` [WebAuthn4J Project: WebAuthn4J](https://github.com/webauthn4j/webauthn4j) - A portable Java library for WebAuthn server side verification.
 - `FIDO CONFORMANT` [WebAuthn Go library](https://github.com/go-webauthn/webauthn) - WebAuthn library written in Go (replaces the archived and deprecated [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn)).
 - `FIDO CONFORMANT` [cedarcode: WebAuthn Ruby](https://github.com/cedarcode/webauthn-ruby) - Ruby implementation of a WebAuthn Relying Party.

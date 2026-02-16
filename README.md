@@ -108,7 +108,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Pol Henarejos: pico-fido](https://github.com/polhenarejos/pico-fido) - This project transforms your Raspberry Pi Pico into an integrated FIDO Passkey, functioning like a standard USB Passkey for authentication
 - [Peter Sanford: TPM FIDO](https://github.com/psanford/tpm-fido) - tpm-fido is FIDO token implementation for Linux that protects the token keys by using your system's TPM.
 - [Scott Leggett: PIV Agent](https://github.com/smlx/piv-agent) - An SSH and GPG agent which you can use with your PIV hardware security device (e.g. a Yubikey).
-
+- [Dashlane: Passkey Provider Demo for iOS](https://github.com/Dashlane/apple-credential-provider-example) - A demo passkey provider on iOS
  
 ## Hardware Authenticators
 - `FIDO CERTIFIED™` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at [https://solokeys.com](https://solokeys.com).

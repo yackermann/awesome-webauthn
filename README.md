@@ -47,6 +47,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Authsignal: Banking use case demo](https://demo.authsignal.com) - An example of a banking use case with WebAuthn with automatic passkey upgrades feature.
 - [YubiKey WebAuthn Code Demo](https://github.com/iraycd/yubikey-webauthn-demo) - Complete WebAuthn implementation with YubiKey showing discoverable credentials, traditional authentication flows,
   and full React/Express stack with proper server-side validation [iraycd/yubikey-webauthn-demo](https://github.com/iraycd/yubikey-webauthn-demo).
+- [Fun with Flags and Passkeys](https://learning.passkeys.tools) - An interactive WebAuthn learning platform with CTF-style challenges and demo registration and authentication flows, covering discoverable/non-discoverable credentials, conditional UI, MFA, and over 30 intentionally vulnerable verifiers mapped to relevant W3C spec sections to illustrate common verification pitfalls.
 
 ## Server Libraries
 - `FIDO CERTIFIED™` [LINE: FIDO2 Server](https://github.com/line/line-fido2-server) - FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.
@@ -133,6 +134,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passkey Origin Validator](https://github.com/developmeh/passkey-origin-validator) - CLI to verify Passkey Related Origin Request .well-known/webauthn configuration, shows label counts and origin matching.
 - [WebAuthnRecorder](https://github.com/inabajunmr/WebAuthnRecorder) - Chrome extension for recording and analyzing WebAuthn API (navigator.credentials) calls.
 - [Passkey Generator](https://gen-passkey.netlify.app/) - An engineer-friendly web UI for testing passkey and recovery signature(FIDO U2F-P256) with customizable parameters and visualization tools.
+- [Passkeys.Tools](https://passkeys.tools) - A comprehensive security testing and development toolkit for WebAuthn (passkey) implementations that provides full emulation of the client and authenticator layers, allowing to analyze relying party implementations for vulnerabilities and compliance issues.
 
 ## Specifications
 - [FIDO latest specifications](https://fidoalliance.org/specifications/download/) - A right place to find most recent & original FIDO specifications.
@@ -149,6 +151,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop) - Yubico java discoverable credentials workshop.
 - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google.
 - [FIDO Alliance: How To FIDO](https://github.com/fido-alliance/how-to-fido/blob/master/HowToFIDO.md) - A definitive guide on good FIDO UI/UX.
+- [Fun with Flags and Passkeys](https://learning.passkeys.tools) - An interactive WebAuthn learning platform with CTF-style challenges and demo registration and authentication flows, covering discoverable/non-discoverable credentials, conditional UI, MFA, and over 30 intentionally vulnerable verifiers mapped to relevant W3C spec sections to illustrate common verification pitfalls.
 
 ## Articles
 - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@yackermann) - Great blog for those who wish to go in-depth with WebAuthn.

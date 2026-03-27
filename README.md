@@ -80,6 +80,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passwordless.ID: WebAuthn lib](https://github.com/passwordless-id/webauthn) - A simple, minimal, opinionated typescript wrapper around WebAuthn. Features both client side to invoke WebAuthn and server side to verify credentials.
 - [swift-server: webauthn-swift](https://github.com/swift-server/webauthn-swift/tree/main) - A Swift library for implementing the WebAuthn specs on server.
 - [kanidm: webauthn-rs](https://github.com/kanidm/webauthn-rs) - An implementation of webauthn components for Rustlang servers.
+- [Peter Szij: webauthn-kotlin-multiplatform](https://github.com/szijpeter/webauthn-kotlin-multiplatform) - Standards-first Kotlin Multiplatform WebAuthn library with typed models, validation, Ktor/JVM server modules, and Android/iOS passkey clients.
 - [Passkeybot](https://github.com/emadda/passkeybot) - Add passkey auth with a few server side HTTP handlers.
   
 ## Client Libraries
@@ -96,6 +97,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Vault12: electron-webauthn-mac](https://github.com/vault12/electron-webauthn-mac) - Native WebAuthn/Passkey support for Electron on macOS using Apple's AuthenticationServices framework.
 - [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) - Flutter package to provide passkey authentication for iOS and Android apps.
 - [WIOSense: rauth-android](https://github.com/WIOsense/rauth-android) - Android library for FIDO2 roaming authenticator.
+- [Peter Szij: webauthn-kotlin-multiplatform](https://github.com/szijpeter/webauthn-kotlin-multiplatform) - Kotlin Multiplatform passkey clients for Android Credential Manager and iOS AuthenticationServices, with shared client orchestration.
 
 ## Software Authenticators
 - `FIDO CONFORMANT` [TheMaxMur: RS-Key](https://github.com/TheMaxMur/RS-Key) - FIDO2/WebAuthn and U2F security-key firmware for the RP2350, written in Rust with reproducible builds; also implements OpenPGP, PIV and OATH.

@@ -169,6 +169,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Stavros Korokithakis: How to use FIDO2 USB authenticators with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/) - Nice tutorial on how to use FIDO2 to authenticate SSH sessions. As short as possible, but as detailed as necessary to understood all important topics (e.g. resident vs. non-resident keys).
 - [webauthn.wft](https://webauthn.wtf/) - A good overview with many detailed links to dig deeper if interested.
 - [Become Microsoft compatible security key vendor](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-fido2-hardware-vendor) - A official guide to make your security keys Microsoft Entra compatible.
+- [CIAM.wiki: Passwordless and Passkeys](https://ciam.wiki/passwordless-and-passkeys) - A vendor-neutral guide to passkeys and WebAuthn in customer identity: how passkeys differ from magic links and OTP, why they resist phishing, and what to ask a CIAM vendor.
 
 ## Slides
 - [Yuriy Ackermann: WebAuthn Overview](https://slides.com/herrjemand/webauthn-overview) - Introduction to WebAuthn Slide deck from 2019 talks.

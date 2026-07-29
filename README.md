@@ -121,6 +121,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Nitrokey](https://github.com/Nitrokey) - Nitrokey is developing/producing different types of open source and open hardware FIDO2 security keys (check for the "Nitrokey FIDO2" and "Nitrokey 3" related repositories).
 - [BryanJacobs: FIDO2Applet](https://github.com/BryanJacobs/FIDO2Applet) - FIDO2 CTAP2 Javacard Applet.
 - [darconeous: u2f-javacard](https://github.com/darconeous/u2f-javacard) - A privacy-focused Java Card U2F Authenticator based on ledger-u2f-javacard (More recent fork of [Ledger](https://github.com/LedgerHQ/ledger-u2f-javacard)).
+- [2FAco](https://2faco.com) - An open-source authentication key that stores all your TOTP secrets, supports U2F/FIDO2 hardware keys, and generates secure passcodes.
 
 ## Dev tools
 - [Shane B Weeden: FIDO2 Postman Clients](https://github.com/sbweeden/fido2-postman-clients) - FIDO2 Postman clients to easily test your FIDO2 API endpoints.

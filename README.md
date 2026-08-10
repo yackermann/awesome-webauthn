@@ -150,6 +150,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Yubico Labs: Securing a Website with Passwordless Authentication](https://github.com/YubicoLabs/java-webauthn-passwordless-workshop) - Yubico java discoverable credentials workshop.
 - [Google: Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/#0) - An awesome WebAuthn introduction by Eiji Kitamura @ Google.
 - [FIDO Alliance: How To FIDO](https://github.com/fido-alliance/how-to-fido/blob/master/HowToFIDO.md) - A definitive guide on good FIDO UI/UX.
+- [Clerk: How do I implement passkeys in Next.js?](https://clerk.com/blog/how-do-i-implement-passkeys-in-nextjs) - Complete Next.js WebAuthn walkthrough covering registration and authentication flows.
 
 ## Articles
 - [Yuriy Ackermann: WebAuthn/FIDO2 Blog](https://medium.com/@yackermann) - Great blog for those who wish to go in-depth with WebAuthn.

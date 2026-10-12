@@ -26,7 +26,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A demonstration of the WebAuthn Specification [https://webauthn.io/](https://webauthn.io/).
 - [Anders Åberg: .NET library for FIDO2 Demo](https://github.com/abergs/fido2-net-lib) - A working implementation library + demo for FIDO2 and WebAuthn using .NET [https://fido2-net-lib.passwordless.dev/](https://fido2-net-lib.passwordless.dev/).
 - [Auth0: WebAuthn Demo](https://webauthn.me/) - Probably the best WebAuthn flow demo.
-- [Google: WebAuthn Demo](https://github.com/google/webauthndemo) - An example Java Relying Party implementation of the WebAuthn specification [https://webauthndemo.appspot.com](https://webauthndemo.appspot.com).
+- [Google: WebAuthn Demo](https://github.com/google/webauthndemo) - An example Java Relying Party implementation of the WebAuthn specification.
 - [Yubico: WebAuthn Demo](https://demo.yubico.com/webauthn) - Provides technical details of WebAuthn data flow and includes a playground to test a U2F/FIDO2 key as a second factor or passwordless key.
 - [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) - A simple site for testing Web Authentication [https://webauthn.bin.coffee/](https://webauthn.bin.coffee/).
 - [FIDO Alliance: Interop WebApp](https://github.com/fido-alliance/fido2-interop-webapp) - As simple test app for FIDO2 servers.
@@ -35,7 +35,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
 - [Xavier Renard: Webauthn Demo](https://github.com/xarenard/webauthn_fido_java_react) - A working WebAuthn demo based on java Spring Boot and react.js.
 - [Anders Rundgren: FIDO Web Pay](https://github.com/cyberphone/fwp) - Public FIDO-based "wallet" demo and associated standards proposal.
-- [MasterKale: SimpleWebAuthn Demo](https://example.simplewebauthn.dev) - A working instance of the [SimpleWebAuthn example project](https://github.com/MasterKale/SimpleWebAuthn/tree/master/example) showcasing both its server and browser libraries.
 - [MasterKale: WebAuthn Debugger](https://debugger.simplewebauthn.dev/) - A WebAuthn registration and authentication response previewer.
 - [WebAuthn Viewer](https://inabajunmr.github.io/webauthn-viewer/) - A GUI based WebAuthn API response viewer.
 - [Chris Keogh: dotnetcore IdentityServer4 DEMO](https://github.com/dbfr3qs/PasswordlessAuthExample) - A WebAuthN demo using dotnetcore and the FIDO2.NET library that integrates passwordless auth with [IdentityServer4](https://github.com/IdentityServer/IdentityServer4).
@@ -165,7 +164,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Damien Bod: ASP.NET CORE IDENTITY WITH FIDO2 WEBAUTHN MFA](https://damienbod.com/2019/08/06/asp-net-core-identity-with-fido2-webauthn-mfa/) - This article shows how Fido2 WebAuthn could be used as 2FA and integrated into an ASP.NET Core Identity application.
 - [Paul Stamatiou: Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - How to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys. (Less technical but a very usefull article).
 - [Adam Powers FIDO Alliance: The Truth about Attestation](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/) - A woundeful tech article about attestations.
-- [Henrik Loeser (data-henrik): FIDO2-related blog articles](https://blog.4loeser.net/search/label/FIDO2) - FIDO2 keys on Linux and for cloud services.
+- [Henrik Loeser (data-henrik): FIDO2-related blog articles](https://data-henrik.de/tags/fido2/) - FIDO2 keys on Linux and for cloud services.
 - [Tim Brust: Security Evaluation of Multi-Factor Authentication in Comparison with the Web Authentication API](https://github.com/timbru31/masters-thesis) - A master's thesis comparing WebAuthn with other multi-factor authentication methods, such as HOTP, TOTP or U2F.
 - [Stavros Korokithakis: How to use FIDO2 USB authenticators with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/) - Nice tutorial on how to use FIDO2 to authenticate SSH sessions. As short as possible, but as detailed as necessary to understood all important topics (e.g. resident vs. non-resident keys).
 - [webauthn.wft](https://webauthn.wtf/) - A good overview with many detailed links to dig deeper if interested.

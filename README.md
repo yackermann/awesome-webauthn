@@ -188,6 +188,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [WebAuthn Wiki](https://github.com/w3c/webauthn/wiki) - WebAuthn API spec official explainers and wiki
 - [State of Passkeys](https://state-of-passkeys.io/) - Info page that shows current data about passkey-readiness of operating systems and browsers
 - [ssheasy](https://github.com/hullarb/ssheasy) - SSH client that runs in the browser and implements WebAuthn based SSH authentication. WebAuthn authentication is implemented by implementing OpenSSH's webauthn-sk-ecdsa-sha2-nistp256@openssh.com key type in go and compiling it to WebAssembly.
+- [agentgate](https://github.com/Artificialxtrax/agentgate) - Python library using WebAuthn passkeys to approve sensitive AI-agent actions (transaction-bound challenges), with a hash-chained audit log.
 
 ## FAQ
 

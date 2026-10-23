@@ -134,6 +134,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passkey Origin Validator](https://github.com/developmeh/passkey-origin-validator) - CLI to verify Passkey Related Origin Request .well-known/webauthn configuration, shows label counts and origin matching.
 - [WebAuthnRecorder](https://github.com/inabajunmr/WebAuthnRecorder) - Chrome extension for recording and analyzing WebAuthn API (navigator.credentials) calls.
 - [Passkey Generator](https://gen-passkey.netlify.app/) - An engineer-friendly web UI for testing passkey and recovery signature(FIDO U2F-P256) with customizable parameters and visualization tools.
+- [EffectivePasskey](https://github.com/xsignon-secure/EffectivePasskey) - Free, offline CLI that computes each Microsoft Entra ID user's effective passkey (FIDO2) policy after overlapping profiles and Conditional Access, and flags who loses sign-in when SMS/voice is retired.
 
 ## Specifications
 - [FIDO latest specifications](https://fidoalliance.org/specifications/download/) - A right place to find most recent & original FIDO specifications.

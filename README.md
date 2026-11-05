@@ -129,6 +129,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Descope: VirtualWebAuthn Test Tool](https://github.com/descope/virtualwebauthn) - A GO package to automate testing of a relying party WebAuthn server implementation without requiring a browser or an actual authenticator.
 - [Olivier Potonniée: FIDO MDS Explorer](https://opotonniee.github.io/fido-mds-explorer/) - A user-friendly web UI to explore the FIDO Metadata Service repository, which contains detailed characteristics and attestation certificates of authenticators registered to the FIDO Alliance.
 - [WebAuthn Playground](https://opotonniee.github.io/webauthn-playground/) - A web page (no server) to test WebAuthn operations with configurable parameters, and view/parse responses.
+- [SignOps: Passkey support checker](https://signops.dev/tools/passkey-check/) - A web page that runs in your browser and reports which WebAuthn and passkey features it supports (platform authenticator, autofill, hybrid sign-in and PRF).
 - [Passkeys Debugger](https://www.passkeys-debugger.io/) - A simple website to test different passkeys / WebAuthn server settings and client responses.
 - [Martin Paljak: YAFU - Yet Another FIDO Utility](https://github.com/martinpaljak/YAFU) - Java library and CLI utility for working with CTAP devices over USBHID and NFC
 - [Passkey Origin Validator](https://github.com/developmeh/passkey-origin-validator) - CLI to verify Passkey Related Origin Request .well-known/webauthn configuration, shows label counts and origin matching.
@@ -168,6 +169,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Henrik Loeser (data-henrik): FIDO2-related blog articles](https://blog.4loeser.net/search/label/FIDO2) - FIDO2 keys on Linux and for cloud services.
 - [Tim Brust: Security Evaluation of Multi-Factor Authentication in Comparison with the Web Authentication API](https://github.com/timbru31/masters-thesis) - A master's thesis comparing WebAuthn with other multi-factor authentication methods, such as HOTP, TOTP or U2F.
 - [Stavros Korokithakis: How to use FIDO2 USB authenticators with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/) - Nice tutorial on how to use FIDO2 to authenticate SSH sessions. As short as possible, but as detailed as necessary to understood all important topics (e.g. resident vs. non-resident keys).
+- [SignOps: WebAuthn errors](https://signops.dev/blog/webauthn-errors/) - Every DOMException name create() and get() can throw (NotAllowedError, InvalidStateError, SecurityError and more), with causes and what to show the user.
 - [webauthn.wft](https://webauthn.wtf/) - A good overview with many detailed links to dig deeper if interested.
 - [Become Microsoft compatible security key vendor](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-fido2-hardware-vendor) - A official guide to make your security keys Microsoft Entra compatible.
 

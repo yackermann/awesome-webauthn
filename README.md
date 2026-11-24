@@ -135,6 +135,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passkey Origin Validator](https://github.com/developmeh/passkey-origin-validator) - CLI to verify Passkey Related Origin Request .well-known/webauthn configuration, shows label counts and origin matching.
 - [WebAuthnRecorder](https://github.com/inabajunmr/WebAuthnRecorder) - Chrome extension for recording and analyzing WebAuthn API (navigator.credentials) calls.
 - [Passkey Generator](https://gen-passkey.netlify.app/) - An engineer-friendly web UI for testing passkey and recovery signature(FIDO U2F-P256) with customizable parameters and visualization tools.
+- [WebAuthn AAGUID Lookup](https://owaiskhan.website/tools/webauthn-aaguid-lookup/) ([Source](https://github.com/ReaperOAK/owaiskhan-website/blob/master/src/pages/tools/webauthn-aaguid-lookup.astro)) - An in-browser tool mapping Authenticator Attestation GUIDs (AAGUIDs) to commercial passkey hardware and authenticator models.
 
 ## AI Skills
 - [Yuriy Ackermann: FIDO Specification and Certification Skill](https://github.com/yackermann/fido-specs-and-certification-skill) - You friendly skill for working with FIDO specs, and FIDO certification requirements
